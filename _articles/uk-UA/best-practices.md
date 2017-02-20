@@ -1,10 +1,10 @@
 ---
-locale: en-US
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+locale: uk-UA
+title: Найкращі практики для супроводжуючих.
+description: 'Зробіть своє життя, як супроводжуючого проекту з відкритим джерельним кодом, простішим: від документування процесів до використання спільноти.'
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
+  what-does-it-mean-to-be-a-maintainer: "Що означає бути супроводжуючим?"
   documenting-your-processes: "Documenting your processes"
   learning-to-say-no: "Learning to say no"
   leverage-your-community: "Leverage your community"
@@ -14,13 +14,13 @@ order: 5
 image: /assets/images/cards/best-practices.png
 ---
 
-## What does it mean to be a maintainer?
+## Що означає бути супроводжуючим?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Якщо ви супроводжуєте проект з відкритим джерельним кодом, який використовує чимало людей, ви помітите, що починаєте менше писати код і більше відповідати на інциденти.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+На ранніх етапах проекту ви експериментуєте з новими ідеями та прймаєте рішення, виходячи зі своїх бажань. Як тільки популярність проекту зросте, ви більше співпрацюватимете зі своїми користувачами та учасниками.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Супровід проекту вимагає чогось більшого, ніж написання коду. Ці задачі часто непередбачувані, втім вони не менш важливі для проекту, що розвивається. Ми зібрали декілька способів, які полегшать ваше життя: від документування процесів до використання своєї спільноти.
 
 ## Documenting your processes
 
