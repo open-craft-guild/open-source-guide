@@ -12,55 +12,57 @@ order: 7
 image: /assets/images/cards/getting-paid.png
 ---
 
-## Why some people seek financial support
+## Чому деякі люди звертаються за фінансовою підтримкою
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Велика частина open source роботи є добровільна. Наприклад, хтось може зіткнутися з помилкою в проекті який вони використовують і запропонувати (*затвердити**) швидке виправлення, або вони могли б насолоджуватися баловством з проектом з відкритим вихідним кодом в свій вільний час.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Я шукав "хобі" проект з программування, який буде тримати мене зайнятими протягом Різдвяного тижня. (...) У мене був домашній комп'ютер, і небагато інших турбот. Я вирішив написати інтерпретатор для нової мови сценаріїв, про котрий я думав останнім часом. (...) Я вибрав Python за робочу назву.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Є багато причин, чому людина не хотіла б отримувати зарплату за їх роботу над open source.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Вони можливо вже мають роботу на повний робочий день, що вони люблять,** що дозволяє їм внести свій вклад в open source у вільний час.
+* **Вони насолоджуються думкою про open source як хоббі** або творча віддушина і не хочуть відчувати себе фінансово зобов'язаним працювати над своїми проектами.
+* **Вони отримують інші вигоди від внесків в open source** такі як створення репутації або портфоліо, вивчення нового, або почувати себе ближче до спільноти.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  Фінансові пожертви додають почуття відповідальності, для деяких. (...) Це важливо для нас, в глобально взаємнозалежному, швидко мінливому світі ми живемо, щоб бути в змозі сказати "не зараз, я відчуваю, що роблю щось зовсім інше".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["Чому ми не приймаємо пожертви"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Для інших, особливо коли внески постійні або вимагають значних витрат часу, отримувати гроші за свої внести у open source являє собою єдиний спосіб, яким вони можуть брати участь, або тому, що проект вимагає цього, або з особистих причин.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Підтримка популярних проектів може бути великою відповідальністю, займаючи 10 або 20 годин на тиждень замість кількох годин на місяць.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  Запитайте будь-якого підтримуючого(*утримуючого**) open source проект, і вони розкажуть вам про реальність обсягів роботи, який входить в управління проектом. У вас є клієнти. Ви вирішуєте проблеми для них. Ви створюєте нові функції. Це стає реальним попитом на ваш час.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time.
+Оплачувана робота також дозволяє людям з різних верств суспільства внести значний вклад. Деякі люди не можуть дозволити собі витрачати безоплатний час на open source проекти, на основі їх поточного фінансового становища, боргу, або сім'ї або інших заощаджувальних зобов'язань. Це означає, що світ ніколи не бачить вклади від талановитих людей, які не можуть дозволити собі, безоплатно витратити свій час.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   Відкрите програмне забезпечення дає величезні переваги для галузі інформаційних технологій, що, в свою чергу, означає вигода для всіх галузей промисловості. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
 </aside>
 
 If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+
+Якщо ви шукаєте фінансову підтримку, є два шляхи на розгляд. Ви можете фінансувати свій власний час як вкладник, або ви можете знайти організаційне фінансування проекту. (something wrong here)
 
 ## Funding your own time
 
