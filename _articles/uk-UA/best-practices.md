@@ -1,11 +1,11 @@
 ---
 locale: uk-UA
 title: Найкращі практики для супровідників.
-description: 'Зробіть своє життя, як супровідника open-source проекту, простішим: від документування процесів до використання спільноти.'
+description: 'Зробіть своє життя, як супровідника open source проекту, простішим: від документування процесів до використання спільноти.'
 class: best-practices
 toc:
   Що-означає-бути-супровідником: "Що означає бути супровідником?"
-  documenting-your-processes: "Documenting your processes"
+  Задокументуйте-свої-процеси: "Задокументуйте свої процеси"
   learning-to-say-no: "Learning to say no"
   leverage-your-community: "Leverage your community"
   bring-in-the-robots: "Bring in the robots"
@@ -16,66 +16,66 @@ image: /assets/images/cards/best-practices.png
 
 ## Що означає бути супровідником?
 
-Якщо ви супроводжуєте open-source проект, який використовує чимало людей, ви помітите, що починаєте менше писати код і більше відповідати на інциденти.
+Якщо ви супроводжуєте open source проект, який використовує чимало людей, ви помітите, що починаєте менше писати код і більше відповідати на інциденти (issues).
 
 На ранніх етапах проекту ви експериментуєте з новими ідеями та прймаєте рішення, виходячи зі своїх бажань. Як тільки популярність проекту зросте, ви більше співпрацюватимете зі своїми користувачами та учасниками.
 
 Супровід проекту вимагає чогось більшого, ніж написання коду. Ці задачі часто непередбачувані, втім вони не менш важливі для проекту, що розвивається. Ми зібрали декілька способів, які полегшать ваше життя: від документування процесів до використання своєї спільноти.
 
-## Documenting your processes
+## Задокументуйте свої процеси
 
-Writing things down is one of the most important things you can do as a maintainer.
+Записувати різні речі — це одна з найважливіших речей, що ви, як супровідник, можете зробити.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Документування не лише допоможе вам краще сформулювати думки, а також допоможе іншим людям зрозуміти, що їм потрібно або чого очікувати, ще до того, як вони спитають.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Записування спростить відмову, якщо щось не входить у ваші рамки. Також це допоможе іншим зробити перший крок і приєднатися до співпраці. Ви ніколи не знаєте, хто читає чи використовує ваш проект.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Якщо ви не пишете розгорнуті абзаци, занотовувати основні моменти все одно краще, ніж не писати узагалі нічого.
 
-### Write down your project's vision
+### Запишіть своє бачення проекту
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Для початку запишіть мету свого проекту. Додайте її до файлу README або створіть окремий файл із назвою VISION (БАЧЕННЯ). Якщо є й інші матеріали, які можуть допомогти (наприклад, дорожня карта проекту), зробіть їх також публічними.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Наявність чіткого, задокументованого бачення дозволить вам залишатися сфокусованим та уникнути так званого "посунення рамок" внаслідок внесків (contributions) інших людей.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Наприклад, @lord зрозумів, що наявність бачення проекту допомагає йому визначатися, на які запити витрачати час. Він, як новий супровідник, шкодує, що не притримувався рамок проекту, коли отримав перший запит щодо [Slate](htts://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  Я зробив дуже незграбно. Я не доклав зусиль щоб знайти повне рішення. Замість часткового рішення я волів би сказати "У мене зараз немає на це часу, але я додам це до списку бажаних у довготривалій перспективі речей".
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["Поради для нових супровідників open source"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Повідомляйте про свої очікування
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Написання правил часто дратує. Інколи ви навіть можете почуватися наче контролюєте поведінку інших людей або псуєте їм усі веселощі.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Втім, записані та чесно застосовувані, хороші правила посилюють супровідників. Вони не дають вам бути затягнутим у ті речі, які ви не бажаєте робити.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Більшість із тих людей, які знаходять ваш проект, нічого не знають ані про вас, ані про ваші обставини. Вони можуть вважати, що ви отримуєте платню за роботу над проектом, особливо якщо самі цим частенько послуговуються і залежать від цього. Можливо, ви колись приділяли багато часу своєму проекту, але зараз сильно зайняті на новій роботі або з новим членом своєї сім'ї.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Це цілком нормально! Лишень переконайтеся, що інші люди знають про це.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Якщо супровід проекту відбувається час від часу або цілком на волонтерських засадах, будьте чесними щодо того, скільки часу ви маєте. Це не те саме, що і час, який, на вашу думку, цей проект потребує, або час, який ви хотіли б на нього витрачати.
 
-Here are a few rules that are worth writing down:
+Ось декільки правил, які варто написати:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_ex. "We only spend about 5 hours per week on this project"_)
+* Як розглядаються та приймаються внески (_Чи потрібні тести? Шаблон для створення інциденту?_)
+* Види внесків, які ви приймете (_Можливо, ви бажаєте допомоги лише з конкретним фрагментом вашого коду?_)
+* Коли доречно повторювати запит (_напр. "Очікуйте відповідь від супровідника протягом 7 днів. Якщо до того часу ви нічого не почуєте, не соромтеся нагадати про себе в обговоренні."_)
+* Скільки часу ви приділяєте проекту (_напр. "Цьому проекту ми приділяємо приблизно 5 годин на тиждень"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), та [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md), — ось декілька прикладів проектів, що мають основоположні правила для супровідників та учасників.
 
-### Keep communication public
+### Комунікуйте публічно
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Не забудьте записувати і взаємодії також. Усюди, де це можна, тримайте комунікації щодо проекту публічними. Хтось намагається написати вам особисто для обговорення функціональності або необхідної допомоги — ввічливо направте їх у публічний канал обговорень, такий як поштова розсилка або реєстр інцидентів (issue tracker). 
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Якщо ви особисто зустрічаєтеся з іншими супровідниками або приймаєте важливі рішення, задокументуйте ці обговорення публічно, навіть якщо це лише публікування ваших нотаток.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Таким чином, будь-хто, хто долучиться до вашої спільноти, володітиме тією ж інформацією, що й людина, яка брала участь у проекті впродовж років.
 
 ## Learning to say no
 
