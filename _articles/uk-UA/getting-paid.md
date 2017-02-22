@@ -40,11 +40,11 @@ image: /assets/images/cards/getting-paid.png
 
 Для інших, особливо коли внески постійні або вимагають значних витрат часу, отримувати гроші за свої внести у open source являє собою єдиний спосіб, яким вони можуть брати участь, або тому, що проект вимагає цього, або з особистих причин.
 
-Підтримка популярних проектів може бути великою відповідальністю, займаючи 10 або 20 годин на тиждень замість кількох годин на місяць.
+Утримання популярних проектів може бути великою відповідальністю, займаючи 10 або 20 годин на тиждень замість кількох годин на місяць.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Запитайте будь-якого підтримуючого(*утримуючого**) open source проект, і вони розкажуть вам про реальність обсягів роботи, який входить в управління проектом. У вас є клієнти. Ви вирішуєте проблеми для них. Ви створюєте нові функції. Це стає реальним попитом на ваш час.
+  Запитайте будь-кого, хто утримує open source проект, і вони розкажуть вам про реальність обсягів роботи, які входять в управління проектом. У вас є клієнти. Ви вирішуєте проблеми для них. Ви створюєте нові функції. Це стає реальним попитом на ваш час.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
@@ -54,37 +54,35 @@ image: /assets/images/cards/getting-paid.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
-   Відкрите програмне забезпечення дає величезні переваги для галузі інформаційних технологій, що, в свою чергу, означає вигода для всіх галузей промисловості. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   Відкрите програмне забезпечення дає величезні переваги для галузі інформаційних технологій, що, в свою чергу, означає вигоду для всіх галузей промисловості. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Якщо ви шукаєте фінансову підтримку, є два шляхи на розгляд. Ви можете фінансувати свій власний час як вкладник, або ви можете знайти організаційне фінансування проекту.
 
-Якщо ви шукаєте фінансову підтримку, є два шляхи на розгляд. Ви можете фінансувати свій власний час як вкладник, або ви можете знайти організаційне фінансування проекту. (something wrong here)
+## Фінансування вашого часу
 
-## Funding your own time
+У наш час, багато людей отримують гроші за неповний або повний робочий день над open source. Найпоширеніший спосіб отримати гроші за ваш час — поговорити з вашим роботодавцем.
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
-
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Легко зробити причину (*можливість**) для роботи над open source, якщо ваш роботодавець фактично використовує проект, but get creative with your pitch. Можливо, ваш роботодавець не використовує проект, але вони використовують Python, і утримання популярного Python проекту допоможе залучити нових розробників Python. Може бути, це робить вигляд вашого роботодавця більш дружнім для розробки в цілому.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  Як і багато хто в open source, я боровся з тягарем утримання проекту. Коли я вперше почав працювати над open source, я звик просто залишитися допізна попрацювати над ним або прямо тоді, коли я повертався додому. (...) Я був в змозі обговорити з моїм босом питання, з якими я зіткнувся, і ми придумали ідеї про те, як ми могли б об'єднати open source завдання з використанням нашого власного Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+Якщо у вас немає існуючого open source проекту, з яким ви хотіли б працювати, але надаєте перевагу, щоб ваша кінцева робота була open source, надайте причини вашому роботодавцю (*переконайте вашого роботодавця**), відкрити код деякого внутрішнього програмного забезпечення.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+Багато компаній розробляють open source програми для створення свого бренду і залучення талановитих.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://hueniverse.com/2014/08/15/open-source-aint-charity/). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse, наприклад, виявив, що є фінансові причини для обґрунтовування [інвестицій Wallmart в open source](https://hueniverse.com/2014/08/15/open-source-aint-charity/). Та @jamesgpearce виявив що open source программа Фейсбуку [зробила відмінність](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) в рекрутингу:
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> Це було тісно пов'язано з нашою хакерською культурою, і як наша організація сприймалась. Ми запитали наших співробітників, "Чи ви знали про open source програму Facebook?". Дві третини сказали "Так". Половина каже, що програма позитивно визначала їх рішення працювати на нас. These are not marginal numbers, and I hope, a trend that continues.
 
 If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
 
