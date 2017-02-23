@@ -1,37 +1,37 @@
 ---
-locale: en-US
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+locale: uk-Ua
+title: Лідерство та керування
+description: Зростаючий open source проект може отпримати вигоду від формальних правил прийняття рішень.
 class: leadership
 toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
-  how-do-i-formalize-these-leadership-roles: "How do I formalize these leadership roles?"
-  when-should-i-give-someone-commit-access: "When should I give someone commit access?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
+  what-are-examples-of-formal-roles-used-in-open-source-projects: "Які бувають ролі в open source проектах"
+  how-do-i-formalize-these-leadership-roles: "Як мені формалізувати ці ролі?"
+  when-should-i-give-someone-commit-access: "Кому слід давати commit access?"
+  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Які структури керування зустрічаються в open source проектах?"
+  do-i-need-governance-docs-when-i-launch-my-project: "Чи потрібні мені керуючі документи, коли я запускаю свій проект?"
   what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
 order: 6
 image: /assets/images/cards/leadership.png
 ---
 
-## Understanding governance for your growing project
+## Що означає "керувати" вашим зростаючим проектом?
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Ваш проект розростається, різні люди залучені, ви налаштовані рухатись далі. На цьому етапі, ви напевно замислюєтесь, як долучити постійних котриб'юторів до робочого процесу, наприклад дозволити комусь коммітити або ж вирішувати конфлікти в спільноті. Якщо у вас є питання, ми маємо відповіді.
 
-## What are examples of formal roles used in open source projects?
+## Які бувають ролі в open source проектах?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Багато проектів використовують подібні схеми розподілення ролей комтриб'юторів.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Звичайно, вам вирішувати, значимість цих ролей. Ось кілька типів ролей, які ви можете використовувати:
 
 * **Maintainer**
 * **Contributor**
 * **Committer**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**В деяких проектах, "maintainers"** — це тільки ті люди, які мають commit access. В інших проектах, це просто ті люди, які просто записані в README, як maintainers.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+Maintainer не обов'язково повинен писати код для вашого проекту. Це може бути людина, яка виконує багато роботи з покращення вашого проекту, наприклад пише документацію, що робить ваш проект більш доступним для людей. Maintainer скоріш за все відчуває відповідальність за шлях розвитку вашого проекту і допомагає зробити його кращим.
 
 **A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
 
