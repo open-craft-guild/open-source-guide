@@ -22,20 +22,20 @@ image: /assets/images/cards/coc.png
 
 ## Затвердження кодексу честі
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Намагайтеся затвердити кодекс честі якнайраніше: в ідеалі, щойно ви створили проект.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+На додачу до відповідності вашим очікуванням, кодекс честі описує наступне:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Де діє кодекс честі _(лише завдання і запита на злиття, чи активності спільноти, як-от заходи?)_
+* Кого стосується кодекс честі _(учасники спільноти та супровідники, але як щодо спонсорів?)_
+* Що трапиться, якщо хтось порушить кодекс честі
+* Як можна повідомити про порушення
 
-Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Коли є така можливість, користуйтеся існуючими напрацюваннями. [Угода учасника](http://contributor-covenant.org/) -- це готовий до використання кодекс честі, який використовується понад 40,000 open source проектами, включно з Kubernetes, Rails та Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+[Кодекс честі Django](https://www.djangoproject.com/conduct/) і [кодекс честі міщанина](http://citizencodeofconduct.org/) також два хороших взірці кодексу честі.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
+Розмістіть файл CODE_OF_CONDUCT у кореневій теці свого проекту та посилання на нього зі свого README, щоб його було видно вашій спільноті.
 
 ## Вирішуємо як вам забезпечити дотримання кодексу честі
 
