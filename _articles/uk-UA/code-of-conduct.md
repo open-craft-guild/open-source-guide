@@ -40,27 +40,27 @@ image: /assets/images/cards/coc.png
 ## Вирішуємо як вам забезпечити дотримання кодексу честі
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  Кодекс честі, який не є (чи не може бути) приведеним в дію -- це навіть гірше, ніж узагалі відсутній кодекс честі: він повідомляє, що цінності цього кодексу честі насправді неважливі і їх не поважають у вашій спільноті.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Вам слід пояснити яким чином кодекс честі буде гарантований, **_до того_** як порушення трапиться. Є кілька причин щоб вчинити саме так:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* Це демонструє, що ви серйозно маєте намір вжити заходів, коли небхідно.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Ваша спільнота почуватиметься упевненіше, що скарги справді розглядаються.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Ви переконаєте свою спільноту, що розгляд скарг завжди чесний і прозорий, якщо вони стануть об'єктом розслідування порушення.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Ви маєте забезпечити людям можливість приватно (на кшталт електронної адреси) повідомляти про порушення кодексу честі і пояснювати хто одержує це повідомлення. Це може бути супровідник, група супровідників чи робоча група кодексу честі.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Слід пам'ятати, що хтось може захотіти повідомити про порушення людиною, яка отримує ці скарги. У такому разі, забезпечте можливість повідомляти про порушення ще комусь. Наприклад, @ctb і @mr-c [пояснюють у своєму проекті](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst) [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Про випадки образливої, настирливої чи яким-небудь іншим чином неприйнятної поведінки повідомляйте електронним листом на адресу **khmer-project@idyll.org**, який потрапляє лише до С. Тітуса Брауна та Майкла Р. Крусо. Щоб повідомити про проблему з участю когось із них, будь ласка, надішліть електронного листа **Джуді Кларк, Ph.D.** Diversity Director у Центрі BEACON з вивчення еволюції в дії, Центр NSF Науки і Технологій.*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+Для натхнення перегляньте [інструкцію з впровадження](https://www.djangoproject.com/conduct/enforcement-manual/) Django (хоча вам може й не знадобитися щось настільки всеосяжне, залежно від обсягів вашого проекту).
 
 ## Приводимо в дію свій кодекс честі
 
