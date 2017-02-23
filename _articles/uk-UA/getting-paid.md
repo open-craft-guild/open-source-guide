@@ -62,11 +62,11 @@ image: /assets/images/cards/getting-paid.png
 
 Якщо ви шукаєте фінансову підтримку, є два шляхи на розгляд. Ви можете фінансувати свій власний час як вкладник, або ви можете знайти організаційне фінансування проекту.
 
-## Фінансування вашого часу
+## Фінансування свого часу
 
-У наш час, багато людей отримують гроші за неповний або повний робочий день над open source. Найпоширеніший спосіб отримати гроші за ваш час — поговорити з вашим роботодавцем.
+У наш час, багато людей отримують гроші за неповний або повний день роботи над open source. Найпоширеніший спосіб отримати гроші за ваш час — поговорити з вашим роботодавцем.
 
-Легко зробити причину (*можливість**) для роботи над open source, якщо ваш роботодавець фактично використовує проект, but get creative with your pitch. Можливо, ваш роботодавець не використовує проект, але вони використовують Python, і утримання популярного Python проекту допоможе залучити нових розробників Python. Може бути, це робить вигляд вашого роботодавця більш дружнім для розробки в цілому.
+Легко зробити причину (*можливість**) для роботи над open source, якщо ваш роботодавець фактично використовує проект, та будьте винахідливими (креативними), коли продаєте таку їдею. Можливо, ваш роботодавець не використовує проект, але вони використовують Python, і утримання популярного Python проекту допоможе залучити нових розробників Python. Може бути, це робить вигляд вашого роботодавця більш дружнім для розробки в цілому.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -82,43 +82,44 @@ image: /assets/images/cards/getting-paid.png
 
 @hueniverse, наприклад, виявив, що є фінансові причини для обґрунтовування [інвестицій Wallmart в open source](https://hueniverse.com/2014/08/15/open-source-aint-charity/). Та @jamesgpearce виявив що open source программа Фейсбуку [зробила відмінність](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) в рекрутингу:
 
-> Це було тісно пов'язано з нашою хакерською культурою, і як наша організація сприймалась. Ми запитали наших співробітників, "Чи ви знали про open source програму Facebook?". Дві третини сказали "Так". Половина каже, що програма позитивно визначала їх рішення працювати на нас. These are not marginal numbers, and I hope, a trend that continues.
+> Це було тісно пов'язано з нашою хакерською культурою, і як наша організація сприймалась. Ми запитали наших співробітників, "Чи ви знали про open source програму Facebook?". Дві третини сказали "Так". Половина каже, що програма позитивно визначала їх рішення працювати на нас. Це не маргінальні номера, і я сподіваюся, ця тенденція триває.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+Якщо ваша компанія йде цим шляхом, дуже важливо чітко дотримувати кордони між спільнотою та корпоративної діяльностю. Зрештою, open source підтримує себе за рахунок внесків людей зі всього світу, і це більше, ніж будь-яка одна компанія або поселення.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1445228?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  Отримання плати за роботу над open source є рідкісною і прекрасною можливістю, але ви не повинні поступатися в вашій пристрасті в цьому процесі. Your passion should be why companies want to pay you.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+Якщо ви не можете переконати вашого нинішнього роботодавця поставити в пріорітет open source, розгляньте можливість знайти нового роботодавця, який заохочує внески працівника в open source. Подивіться на компанії, які явно прихильні до роботи над open source. Наприклад:
 
-* [Ghost](https://ghost.org/) is a company built around [an open source project](https://github.com/tryghost/ghost)
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* [Ghost](https://ghost.org/) це компанія побудована навколо [open source проекту](https://github.com/tryghost/ghost)
+* [Rackspace](https://www.rackspace.com/en-us) оприлюднила свою [політика внесків в open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) для співробітників
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+Проекти, які створені у великих компаніях, такі як [Go](https://github.com/golang) or [React](https://github.com/facebook/react), також, ймовірно, наймають людей на роботу над open source.
 
-Finally, depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+І, нарешті, в залежності від ваших особистих обставин, ви можете спробувати залучити гроші самостійно для фінансування вашої open source роботи. Наприклад:
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](http://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon фінансував свою працю над [Redux](https://github.com/reactjs/redux) через [Patreon crowdfunding campaign](http://redux.js.org/)
+* @andrewgodwin спонсорував свою роботу над механізмом міграції схем у Django через [Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-## Finding funding for your project
+## Пошук фінансування для свого проекту
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Окрім домовленостей окремих вкладників, іноді проекти отримують гроші від компаній, фізичних осіб, та інших, щоб спонсорувати поточну роботу.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+Організаційне фінансування може йти на оплату поточних співробітників, для покриття витрат на виконання проекту (наприклад, плата за хостинг), або інвестування в нові функції або ідеї.
 
-A few examples of projects with organizational funding include:
+Кілька прикладів проектів з організаційним фінансуванням включають:
 
-* **[webpack](https://github.com/webpack),** which raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue),** created by @yyx990803, which is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization created by @indirect that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack),** котрий збирає гроші с компаній та фізичних осіб money [через OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue),** створенний @yyx990803, котрий [фінансується через Patreon](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** некоммерційна організація створена @indirect that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
 
 As open source's popularity increases, finding funding for projects is still experimental. A few current options include:
+Як би не збільшувалась популярність open source, пошук фінансування для проекту ще експериментально. Декілька сучасних (*актуальних**) варіантів включають в себе:
 
 * **Raise money for your work through crowdfunding campaigns or donations.** This strategy works well if you have a strong audience or reputation already, or your project is very popular.
 * **Apply for grant funding.** Some software foundations and companies offer grants for open source work, such as the [Python Software Foundation](https://www.python.org/psf/grants/), [Mozilla Foundation](https://www.mozilla.org/en-US/grants/), and [Stripe](https://stripe.com/blog/open-source-retreat-2016).
