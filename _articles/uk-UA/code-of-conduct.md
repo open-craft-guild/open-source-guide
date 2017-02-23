@@ -12,13 +12,13 @@ order: 8
 image: /assets/images/cards/coc.png
 ---
 
-## Навіщо вам кодекс честі?
+## Навіщо мені кодекс честі?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Кодекс честі -- це документ, який визначає очікувану поведінку учасників вашого проекту. Адаптація і впровадження кодексу честі може допомогти створити позитивну соціальну атмосферу у вашій спільноті.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Кодекс честі допомагає проекту захистити не лише його учасників, а й вас. Якщо ви доглядаєте проект, то можете помітити, що непродуктивне відношення інших учасників може виснажувати вас чи змусити почуватися нещасним у вашій роботі з часом.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Кодекс честі дає вам змогу забезпечити здорову і конструктивну поведінку спільноти. Проактивність знижує ймовірність того, що ви чи хтось інший стомиться від вашого проекту, а також це допомагає вам вжити заходів, коли хтось робить щось, із чим ви не погоджуєтеся.
 
 ## Затвердження кодексу честі
 
