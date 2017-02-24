@@ -68,16 +68,16 @@ image: /assets/images/cards/coc.png
 
 ### Зберіть інформацію про ситуацію
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Ставтеся до думок учасників спільноти як до своїх власних. Якщо ви одержали скаргу про те, що хтось порушив кодекс честі, поставтеся до цього серйозно та розслідуйте причину, навіть якщо це не відповідає вашому власному досвіду з цією особою. Вчинивши так, ви надсилаєте сигнал спільноті, що ви цінуєте їх точки зору та довіряєте їхнім судженням.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+Член громади, про якого йдеться, може бути частим порушником, який постійно змушує інших почуватися некомфортно, або він міг сказати чи зробити щось лише раз. Обидва випадки можуть бути підставою для вжиття заходів, залежно від контексту.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Перед тим, як відповідати, дайте собі час, щоб зрозуміти що трапилося. Перечитайте останні коментарі та розмови цієї особи, щоб краще зрозуміти ким вони є і чому могли поводитися таким чином. Спробуйте зібрати різні точки зору щодо цієї особи та її поведінки, які відрізняються від вашої особистої.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  Не втягуйте себе у суперечки. Не відволікайтеся на розбір чиєїсь іншої поведінки, доки не владнаєте поточну скаргу. Зосередьтеся на тому, що вам потрібно. 
   <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+— Стефані Зван (Stephanie Zvan), ["Тож, у вас тепер є правила поведінки. Що тепер?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
