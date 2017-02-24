@@ -64,7 +64,7 @@ image: /assets/images/cards/coc.png
 
 ## Приводимо в дію свій кодекс честі
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Інколи, незважаючи на всі зусилля, хтось зробить щось, що порушує ваш кодекс. Є кілька способів розібратися з негативною чи шкідливою поведінкою, коли до цього доходить.
 
 ### Зберіть інформацію про ситуацію
 
