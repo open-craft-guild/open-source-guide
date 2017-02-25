@@ -1,14 +1,14 @@
 ---
-locale: en-US
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+locale: uk-UA
+title: Початок Open Source проекту
+description: Дізнайтесь більше про світ open source та будьте готові до запуску власного проекту.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  Що-таке-open-source-та-навіщо-він-потрібен: "Що таке open source та навіщо він потрібен"
+  Чи-слід-мені-запускати-власний-open-source-проект: "Чи слід мені запускати власний open source проект?"
+  Запуск-вашого-власного-open-source-проекту: "Запуск вашого власного open source проекту"
+  Назва-та-бренд-вашого-проекту: "Назва та бренд вашого проекту"
+  Ваш-передстартовий-контрольний-список: "Ваш передстартовий контрольний список"
 order: 2
 image: /assets/images/cards/beginner.png
 ---
