@@ -83,23 +83,23 @@ image: /assets/images/cards/coc.png
 
 ### Зробіть те, що необхідно
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+Після збору і опрацювання необхідної інформації вам треба буде вирішити що робити. Обмірковуючи свої подальші кроки, пам'ятайте, що ваша мета як модератора -- сприяти безпечному, шанобливому та сповненому співпраці середовищу. Візьміть до уваги не лише як розібратися із ситуацією, яка трапилася, а і те, як ваша відповідь вплине на поведінку решти вашої спільноти та очікування подальшого розвитку.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Коли хтось повідомляє про порушення кодексу честі, це ваша, а не їхня, робота владнати це. Інколи, автор скарги розкриває інформацію дуже ризикуючи своєю кар'єрою, репутацією чи фізичною безпекою. Змушення його протистояти своєму дратівнику може поставити його у незручне становище. Вам слід напряму звертутися до особи, на яку скаржаться, якщо автор скарги не попросив зворотнього.
 
-There are a few ways you might respond to a code of conduct violation:
+Є кілька способів відреагувати на порушення кодексу честі:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Зробити особі, про яку йдеться, публічне попередження** і пояснити яким чином її поведінка негативно впливає на інших, найкраще у каналі, де це сталося. Коли можливо, публічна комунікація показує решті спільноти, що ви ставитеся до кодексу честі серйозно. Будьте доброзичливим, але твердим у такій комунікації.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Приватно дістаньте особу**, про яку йде мова, щоб пояснити як її поведінка негативно вплинула на інших. Ви можете скористатися приватним каналом спілкування, якщо ситуація включає конфіденційну особисту інформацію. Якщо ви комунікуєте з кимось особисто, то хорошою практикою є додавати в копію того, хто першим повідомив про ситуацію, щоб вони знали, що ви вжили заходів. Спитайте дозвіл у нього перед тим, як додавати в копію.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Іноді, вирішення неможливо досягти. Особа, про яку йдеться, може стати агресивною чи ворожою у конфронтації, чи не змінює своєї поведінки. У такому разі, можна вжити суворіших заходів. Наприклад:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Тимчасово заблокувати особу** із запиту у проекті, виконується через тимчасове відсторонення від участі в усіх аспектах проекту
 
-* **Permanently ban** the person from the project
+* **Назавжди відсторонити** особу від проекту
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+Блокування учасників не здійснюють легковажно і воно представляє тверду й непримиренну розбіжність точок зору. Вам варто вживати таких заходів лише коли очевидно, що вирішення неможливо досягти.
 
 ## Заохочуйте поведінку, яку вам би хотілося бачити в світі 🌎
 
