@@ -13,52 +13,52 @@ order: 2
 image: /assets/images/cards/beginner.png
 ---
 
-## The "what" and "why" of open source
+## Що таке open source та навіщо він потрібен
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Отже ви роздумуєте над початком роботи з open source? Вітаємо! Світ цінує ваш внесок. Давайте поговоримо про те, що таке open source та чому люди цим займаються.
 
-### What does "open source" mean?
+### Шо означає "open source"?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Коли проект є open source, то це означає, що **будь-хто може переглядати, використовувати, змінювати та поширювати ваш проект з будь-якою метою.** Ці дозволи забезпечуються [open source ліцензією](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Open source є потужним, бо він знижує перешкоди на шляху впровадження, дозволяючи ідеям поширюватись швидше.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Щоб зрозуміти як це працює, уявіть, що ви принесли вишневий пиріг, щоб почастувати своїх друзів на товариській вечірці.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Кожен пробує пиріг (_використання_)
+* Пиріг стає хітом! Друзі просять у вас рецепт і ви його даєте (_перегляд_)
+* Один з друзів, кондитер, пропонує зменшити кількість цукру (_зміна_)
+* Інший товариш просить дозволу використати це для обіду на наступному тижні (_поширення_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Для порівняння, цей процес з closed source проектом виглядав би як похід у ресторан та замовлення шматочку вишневого пирога. Ви маєте платити за те щоб скуштувати пирога і ресторан навряд чи дасть вам свій рецепт. Якщо ви повністю скопіювали їхній пиріг і продали його під своїм іменем, то ресторан може вжити заходів проти вас.
 
-### Why do people open source their work?
+### Чому люди роблять свою роботу open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Однією з найкорисніших речей у плані набутого досвіду, що я отримав від використання та співпраці в open source, стали взамємовідносини з іншими розробниками, які стикаються з тими ж проблемами що й я.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-[There are many reasons](http://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Існує чимало причин](http://ben.balter.com/2015/11/23/why-open-source/), через які особа чи організація можуть захотіти зробити свій проект open source. Ось деякі приклади:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Співпраця:** Open source проекти можуть приймати зміни від будь-кого у світі. Наприклад, [Exercism](https://github.com/exercism/), це платформа для вправляння у програмуванні з більш, ніж 350 учасниками.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Запозичення та переосмислення:** Open source проекти можуть бути використані будь-ким і майже з будь-якою метою. Люди можуть навіть використовувати ці проекти для побудови інших. Наприклад, [WordPress](https://github.com/WordPress), був створений як відгалуження існуючого проекту під назвою [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Прозорість:** Кожен може оглядати open source проект для пошуку помилок чи невідповідностей. Прозорість має значання для урядів таких країн, як от [Болгарія](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) чи [Сполучені Штати Америки](https://sourcecode.cio.gov/), регульованих галузей на кшталт банківської сфери та охорони здоров’я, або програмного забезпечення для безпеки на зразок [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from datasets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Варто зазначити, що Open source це не тільки для програмного забезпечення. Ви можете зробити open source усе що завгодно, від наборів даних до книжок. Ознайомтесь з [GitHub Explore](https://github.com/explore) для ідей щодо того, що ще ви можете зробити open source.
 
-### Does open source mean "free of charge"?
+### Чи означає open source — "безкоштовно"?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+Одна з найбільших принад open source полягає у тому, що це не коштує грошей. Втім, "безкоштовність" є побічним продуктом загальної вартості open source.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Через те, що [open source ліцензія вимагає](https://opensource.org/osd-annotated) щоб кожен міг використовувати, змінювати та ділитись вашим проектом з довільними намірами, проекти, як правило, є безкоштовними. Якщо проект коштує грошей, то будь-хто може легально зробити його копію та користуватись цією безкоштовною версію.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+В результаті, більшість open source проектів є безплатними, але "безкоштовність" не входить у визначення поняття open source. У open source проектів є можливості побічно стягувати плату завдяки подвійному ліцензуванню чи обмеженим можливостям, в той же час дотримуючись офіційного визначення open source.
 
 ## Should I launch my own open source project?
 
