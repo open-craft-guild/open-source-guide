@@ -1,11 +1,11 @@
 ---
 locale: uk-Ua
-title: Лідерство та керування
+title: Керування
 description: Зростаючий open source проект може отпримати вигоду від формальних правил прийняття рішень.
 class: leadership
 toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "Які бувають ролі в open source проектах"
-  how-do-i-formalize-these-leadership-roles: "Як мені формалізувати ці ролі?"
+  які-бувають-ролі-в-open-source-проектах: "Які бувають ролі в open source проектах"
+  як-мені-формалізувати-ці-керуючі-ролі: "Як мені формалізувати ці керуючі ролі?"
   when-should-i-give-someone-commit-access: "Кому слід давати commit access?"
   what-are-some-of-the-common-governance-structures-for-open-source-projects: "Які структури керування зустрічаються в open source проектах?"
   do-i-need-governance-docs-when-i-launch-my-project: "Чи потрібні мені керуючі документи, коли я запускаю свій проект?"
@@ -33,7 +33,7 @@ image: /assets/images/cards/leadership.png
 
 Maintainer не обов'язково повинен писати код для вашого проекту. Це може бути людина, яка виконує багато роботи з покращення вашого проекту, наприклад пише документацію, що робить ваш проект більш доступним для людей. Maintainer скоріш за все відчуває відповідальність за шлях розвитку вашого проекту і допомагає зробити його кращим.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**"Contributor'ом" може бути будь-хто**, хто коментує issues або пул реквести, людина, що вносить щось у проект (відкриває нові issues, пише код, організовує івенти).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -43,9 +43,9 @@ Maintainer не обов'язково повинен писати код для 
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**Визначення "committer"** може використовуватись щоб виділити commit access, що є специфічним видом відповідальності, на відміну від інших типів конриб'ютингу..
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Коли будете визначати ролі на своєму проекті, можливо, бует корисним [глянути більш широкі визначення](../how-to-contribute/#what-it-means-to-contribute), щоб підримати більше форм контриб'ютинга. Ви можете використовувати лідерскі ролі, щоб виділити людей, які зробили значний вклад у ваш проект, не зважаючи на їх технічні навички.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -55,15 +55,15 @@ While you can define your project roles any way you'd like, [consider using broa
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Як мені формалізувати керуючі ролі?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Формальне використання керуючих ролей допоможе людям відчути владу і покаже іншим члена ком'юніті до кого звертатись за допомогою.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+Для менших проектів, визначити керівників можна просто додавши іхні імена у ваш README або CONTRIBUTORS файли.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [PostgreSQL](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Для більших проектів, якщо у вас є сайт, створіть сторінку команди або список членів там. Наприклад: [PostgreSQL](https://github.com/postgres/postgres/) має [comprehensive team page](https://www.postgresql.org/community/contributors/) з невиликими профайлами кожного з контриб'юторів.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (ex. security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Якщо у вашого проекту дуже велике ком'юніті контриб'юторів, вам варто сформувати "core team" maintainer'ів or even subcommittees of people who take ownership of different issue areas (ex. security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
 
 <aside markdown="1" class="pquote">
   \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
