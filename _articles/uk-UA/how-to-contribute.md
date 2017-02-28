@@ -1,11 +1,11 @@
 ---
-locale: en-US
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+locale: uk-UA
+title: Як зробити внесок в Open Source
+description: Хочете зробити внесок в open source? Настанови по участі в open source русі для початківців і ветеранів.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
+  навіщо-брати-участь-в-open-source: "Навіщо брати участь в open source?"
+  що-означає-робити-внесок: "Що означає робити внесок"
   orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
   how-to-submit-a-contribution: "How to submit a contribution"
@@ -14,137 +14,137 @@ order: 1
 image: /assets/images/cards/contribute.png
 ---
 
-## Why contribute to open source?
+## Навіщо брати участь в open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Робота над \[freenode\] допомогла мені здобути багато навичок, які пізніше мені знадобились у навчанні в університеті та у моїй роботі. Я думаю, робота над open source проектами допомагає мені так само, як і самому проекту!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Чому я люблю працювати з відкритим програмним забезпеченням?"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Участь в open source може бути дієвим способом вивчити самому, навчити інших та отримати досвід майже у будь-чому, що ви можете уявити.
 
-Why do people contribute to open source? Plenty of reasons!
+Чому ж люди беруть участь в open source? Є безліч причин!
 
-### Improve existing skills
+### Покращити наявні навички
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Чи то програмування, дизайн інтерфейсу користувача, графічний дизайн, письмо чи організація, якщо вам необхідна практика, для вас знайдеться завдання в open source проекті.
 
-### Meet people who are interested in similar things
+### Познайомитися з людьми, які зацікавлені в схожих речах
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Open source проекти з теплими, привітними спільнотами змушують людей вертатись протягом років. Багато людей через участь в open source знаходять друзів на все життя, чи то стикаючись один з одним на конференціях, чи то ведучи нічні онлайн розмови про бурріто.
 
-### Find mentors and teach others
+### Знайти менторів та навчити інших
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Робота з іншими над спільним проектом означає те, що вам доведеться пояснювати, як ви щось робите, так само як і просити інших про допомогу. Таке двостороннє навчання може приносити задоволення усім, хто в ньому задіяний.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Створити публічні артефакти, що допоможуть вам підвищити репутацію (та кар'єру)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+За визначенням, вся ваша open source робота є публічною, це значить, що у вас є безкоштовні приклади, які ви можете взяти куди завгодно як демонстрацію того, на що ви здатні.
 
-### Learn people skills
+### Здобути навички спілкування з людьми
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+Open source пропонує можливості для практики навичок лідерства та менеджмента, таких як вирішення конфліктів, організація команд людей і пріоритезування роботи.
 
-### It's empowering to be able to make changes, even small ones
+### Це дає можливість робити зміни, навіть маленькі
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+Ви не вимушені допомагати open source усе своє життя, щоб отримати задоволення від участі в ньому. Чи бачили ви колись описку на сайті та мріяли, щоб хтось її виправив? Якщо це open source проект, ви можете це зробити. Open source допомагає людям відчути контроль над своїм життям і над тим, як вони пізнають світ, що само собою відрадно.
 
-## What it means to contribute
+## Що означає робити внесок
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+Якщо ви новенький в open source, процес може бути лякаючим. Як знайти підходящий проект? Що робити, якщо ти не вмієш кодити? Що буде, якщо щось піде не так?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Нема чого хвилюватись! Існує дуже багато способів почати свій шлях в open source проекті, і декілька порад допоможуть вам отримати максимальну віддачу від вашого досвіду.
 
-### You don't have to contribute code
+### Вашим внеском необов'язково має бути код
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the non-code parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with non-code contributions!
+Поширеним непорозумінням про участь в open source є те, що ви маєте допомагати кодом. Насправді, найчастіше [нехтують чи не звертають увагу](https://github.com/blog/2195-the-shape-of-open-source) саме на частини проекту, що не потребують коду. Ви зробите проекту _величезну_ послугу, якще запропонуєте допомогу саме внесками, що не стосуються коду!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  Я отримав деяке визнання за мою роботу над CocoaPods, але більшість людей не знає, що я не працюю над самим інструментом CocoaPods. Більшість часу на цьому проекті я провів над такими речами як документація та брендінг.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Перехід до відкритого програмного забезпечення за замовчуванням"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you are a developer, non-code contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Навіть якщо ви розробник, непов'язані з кодом внески - це чудовий спосіб почати роботу в проекті та познайомитись з членами спільноти. Будування таких відносин надасть вам можливість працювати над іншими частинами проекту.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  Я вперше звернувся до команди розробників Python (aka python-dev), коли написав лист щодо прийняття мого патчу на розсилку 17 червня 2002. Я швидко зловив open source баг і вирішив зайнятись email-дайджестами для групи. Вони були чудовим виправданням просити деякі уточнення по темі, але, що важливіше, я тепер міг бачити, коли хтось вказував на те, що потребує виправлення.
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["Історії Maintainer'а"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### Do you like planning events?
+### Вам подобається планувати заходи?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* Організуйте воркшоп або зустріч про проект, [як це зробив @fzamperin для NodeSchool](https://github.com/nodeschool/organizers/issues/406)
+* Організуйте конференцію проекту (якщо вони її мають)
+* Допоможіть членам спільноти знайти підходящі конференції та податись туди на спікерів
 
-### Do you like to design?
+### Вам подобається дизайн?
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* Реструктуруйте макети, щоб покращити зручніть і простоту використання проекту
+* Проведіть користувацьке дослідження, щоб реорганізувати та удосконалити навігацію та меню проекту
+* Складіть поради для стилю, щоб допомогти людям створювати приблизно однаковий дизайн
+* Створіть дизайн для футболок або нове лого, [як це зробили контрибьютори hapi.js](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### Вам подобається писати?
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* Напишіть і вдоскональте документацію проекту
+* Створіть папку з прикладами того, як використовується проект
+* Почніть розсилку для проекту або освітлйте головні моменти з розсилки
+* Напишіть туторіали для проекту, [як це зробили контрибьютори pypa](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Перекладіть документацію проекту
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  Серйозно, \[документація\] дуже важлива. Досі документація була найкрутішою фішкою Babel. Але деякі секції ще потребують роботи, і навіть додавання абзацу тут або там було б надзвичайно цінним.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["Пошук контрибьюторів"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### Вам подобається організовувати?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for eslint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* Зв'яжіть issues, що повторюються та запропонуйте нові теги для issues, щоб тримати все в порядку
+* Прогляньте відкриті issues та запропонуйте закрити старі, [як зробив @nzakas для eslint](https://github.com/eslint/eslint/issues/6765)
+* Поставте уточнюючі питання до відкритих issues, щоб просунути обговорення
 
-### Do you like to code?
+### Вам подобається кодити?
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* Знайдіть відкритий issue, за який вам хочеться взятись, [як зробив @dianjin для Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Спитайте, чи можете ви допомогти в написанні нового функціоналу
+* Автоматизуйте установку проекту
+* Поліпшіть налагодження та тестування
 
-### Do you like helping people?
+### Вам подобається допомагати людям?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* Відповідайте на питання про проект, наприклад, на Stack Overflow ([як цей приклад з Postgres](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) або reddit
+* Відповідайте на питання у відкритих issues
+* Допомагайте контролювати дошки обговорень та канали розмов
 
-### Do you like helping others code?
+### Вам подобається допомагати іншим кодити?
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Перевіряйте код, відправлений іншими людьми
+* Напишіть туторіал про те, як використовувати проект
+* Запропонуйте менторити іншого контрибьютора, [як зробив @ereichert для @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### Вам необов'язково працювати тільки над проектом програмного забезпечення!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+Незважаючи на те, що під "open source" часто мається на увазі програмне забезпечення, ви можете співпрацювати над чим завгодно. Існують книги, рецепти, списки і уроки, що розроблюються як open source проекти.
 
-For example:
+Наприклад,
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus працює над [списком крутих списків](https://github.com/sindresorhus/awesome)
+* @h5bp підтримує [список потенційних питань на співбесідах](https://github.com/h5bp/Front-end-Developer-Interview-Questions) для front-end розробників
+* @stuartlynn і @nicole-a-tesla створили [колекцію смішних фактів про буревісників](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+Навіть якщо ви розробник програмного забезпечення, робота над документацією проекту може допомогти вам почати свій шлях в open source. Починати з проектів, що не мають відношення до коду менш страшно, а процес сумісної праці побудує вам впевненість і досвід.
 
 ## Orienting yourself to a new project
 
