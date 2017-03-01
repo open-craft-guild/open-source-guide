@@ -7,7 +7,7 @@ toc:
   'навіщо-брати-участь-в-open-source': "Навіщо брати участь в open source?"
   'що-означає-робити-внесок': "Що означає робити внесок"
   'налаштування-себе-на-новий-проект': "Налаштування себе на новий проект"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
+  'пошук-проекту-для-участі': "Пошук проекту для участі"
   how-to-submit-a-contribution: "How to submit a contribution"
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
@@ -193,25 +193,25 @@ Open source пропонує можливості для практики нав
 * **Форуми обговорень та розсилка:** Деякі проекти можуть використовувати ці канали для тем, призначених для обговорень (напр. _"Як я..."_ or _"Що ви думаєте про..."_ замість звітів про баги та запитів нового функціоналу). Інші використовують issue трекер для усіх розмов.
 * **Сихронний чат канал:** Деякі проекти використовують чат канали (такі як Slack або IRC) для випадкових розмов, співробітництва і швидких обмінів.
 
-## Finding a project to contribute to
+## Пошук проекту для участі
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Тепер, коли ви розібрались з тим, як працюють open source проекти, прийшов час знайти проект для участі!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Якщо ви до цього жодного разу не допомагали open source, прислухайтеся до поради Президента США Джона Ф. Кеннеді, який одного разу сказав: _"Спитайте, не що може ваша країна зробити для вас, а що ви можете зробити для своєї країни."_
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Участь в open source відбувається на всіх рівнях, через усі проекти. Вам не потрібно занадто багато думати, про те, яким саме буде ваш перший внесок, і як він буде виглядати.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+Замість цього, почніть з думок про проект, який ви вже використовуєте або хочете використовувати. Проекти, яким ви будете активно допомагати, це ті проекти, до яких вам цікаво повертатись.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+У цих проектах, коли ви ловите себе на думці, що щось могло б бути краще або по-іншому, дійте так, як вам підказують інстинкти.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+Open source - це не закритий клуб; він створюється такими ж людьми, як ви. "Open source" - це просто гарний термін для вирішення проблем світу.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+Ви можете уважно продивитись README файл і знайти неактивне посилання або одрук. Або ви новий користувач і помітили, що щось не працює, або якесь issue повинно бути у документації. Замість того, щоб ігнорувати це і рухатися далі або просити когось іншого це виправити, подивіться, чи может ви зробити це самі. Саме в цьому суть open source!
 
-> [28% of casual contributions](http://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% випадкових внесків](http://www.igor.pro.br/publica/papers/saner2016.pdf) в open source - це документація. Наприклад, виправлення одруків, реформатування або переклад.
 
-You can also use one of the following resources to help you discover new projects:
+Ви також можете використовувати наступні джерела, які можуть вам допомогти відкривати нові проекти:
 
 * [GitHub Explore](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
@@ -220,157 +220,157 @@ You can also use one of the following resources to help you discover new project
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 
-### A checklist before you contribute
+### Перевірте, перш ніж робити внесок
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Коли ви знайшли проект, в якому ви би хотіли взяти участь, перевірте, чи приймає цей проект внески. Інакше ваша робота може ніколи не отримати відповіді.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Це зручний список для перевірки, чи підходить це йпроект для нових контрибьюторів.
 
-**Meets the definition of open source**
+**Підходить під визнчення open source**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  Чи є в нього ліцензія? Зазвичай це файл LICENSE у корні репозиторію.
   </label>
 </div>
 
-**Project actively accepts contributions**
+**Проект активно приймає внески**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Подивіться на історію комітів у гілці master. На GitHub ви можете побачити цю інформацію на домашній сторінці репозиторію.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  Коли був останній коміт?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  Скільки контрибьюторів має проект?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  Як часто люди комітять? (На GitHub ви можете це знайти, натиснувши "Commits" в верхньому меню.)
   </label>
 </div>
 
-Next, look at the project's issues.
+Далі подивіться на issues проекту.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    Скільки там відкритих issues?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    Чи швидко відповідають супровідники на щойно відкриті issues?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    Наскільки активно обговорюються issues?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    Як давно issues були створені?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    Чи закривають issues? (На GitHub натисніть вкладку "closed" на сторінці Issues, щоб побічити закриті issues.)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Тепер зробіть те ж саме для pull request'ів проекту.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    Скільки там відкритих pull request'ів?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    Чи швидко відповідають супровідники на щойно відкриті pull request'и?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    Наскільки активно обговорюються pull request'и?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    Як давно pull request'и були створені?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    Як давно вливали якісь pull request'и? (На GitHub, настисніть вкладку "closed" на сторінці Pull Requests, щоб побачити закриті PR'и.)
   </label>
 </div>
 
-**Project is welcoming**
+**Проект привітний**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Дружній і привітний проект показує, що він буде сприятливим до нових контрибьюторів.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    Чи корисні відповідв супровідників у issues?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
+    Чи привітні люди в issues, на форумах і у чаті (напр. IRC або Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    Чи розглядаються pull request'и?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    Чи дякують супровідники людям за їх внески?
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  Кожного разу, коли ви бачите довгий ланцюжок повідомлень, перевірте пізні відповіді від головних розробників. Вони конструктивно підводять підсумки і ввічливо намагаються допомогти людям прийти до якогось рішення? Якщо ви бачите багато запеклих війн, це зазвичай ознака того, що енергія  йде на суперечки, а не на розробку.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Виробляючи відкрите програмне забезпечення_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
