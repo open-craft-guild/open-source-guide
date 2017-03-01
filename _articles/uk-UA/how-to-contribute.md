@@ -4,10 +4,10 @@ title: Як зробити внесок в Open Source
 description: Хочете зробити внесок в open source? Настанови по участі в open source русі для початківців і ветеранів.
 class: contribute
 toc:
-  'навіщо-брати-участь-в-open-source': "Навіщо брати участь в open source?"
-  'що-означає-робити-внесок': "Що означає робити внесок"
-  'налаштування-себе-на-новий-проект': "Налаштування себе на новий проект"
-  'пошук-проекту-для-участі': "Пошук проекту для участі"
+  '%D0%BD%D0%B0%D0%B2%D1%96%D1%89%D0%BE-%D0%B1%D1%80%D0%B0%D1%82%D0%B8-%D1%83%D1%87%D0%B0%D1%81%D1%82%D1%8C-%D0%B2-open-source': "Навіщо брати участь в open source?"
+  '%D1%89%D0%BE-%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B0%D1%94-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D0%B2%D0%BD%D0%B5%D1%81%D0%BE%D0%BA': "Що означає робити внесок"
+  '%D0%BD%D0%B0%D0%BB%D0%B0%D1%88%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%81%D0%B5%D0%B1%D0%B5-%D0%BD%D0%B0-%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82': "Налаштування себе на новий проект"
+  '%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%83-%D0%B4%D0%BB%D1%8F-%D1%83%D1%87%D0%B0%D1%81%D1%82%D1%96': "Пошук проекту для участі"
   how-to-submit-a-contribution: "How to submit a contribution"
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
