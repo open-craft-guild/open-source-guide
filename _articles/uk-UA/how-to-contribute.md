@@ -4,9 +4,9 @@ title: Як зробити внесок в Open Source
 description: Хочете зробити внесок в open source? Настанови по участі в open source русі для початківців і ветеранів.
 class: contribute
 toc:
-  навіщо-брати-участь-в-open-source: "Навіщо брати участь в open source?"
-  що-означає-робити-внесок: "Що означає робити внесок"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
+  'навіщо-брати-участь-в-open-source': "Навіщо брати участь в open source?"
+  'що-означає-робити-внесок': "Що означає робити внесок"
+  'налаштування-себе-на-новий-проект': "Налаштування себе на новий проект"
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
   how-to-submit-a-contribution: "How to submit a contribution"
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
@@ -50,7 +50,7 @@ Open source пропонує можливості для практики нав
 
 ### Це дає можливість робити зміни, навіть маленькі
 
-Ви не вимушені допомагати open source усе своє життя, щоб отримати задоволення від участі в ньому. Чи бачили ви колись описку на сайті та мріяли, щоб хтось її виправив? Якщо це open source проект, ви можете це зробити. Open source допомагає людям відчути контроль над своїм життям і над тим, як вони пізнають світ, що само собою відрадно.
+Ви не вимушені допомагати open source усе своє життя, щоб отримати задоволення від участі в ньому. Чи бачили ви колись одрук на сайті та мріяли, щоб хтось її виправив? Якщо це open source проект, ви можете це зробити. Open source допомагає людям відчути контроль над своїм життям і над тим, як вони пізнають світ, що само собою відрадно.
 
 ## Що означає робити внесок
 
@@ -146,52 +146,52 @@ Open source пропонує можливості для практики нав
 
 Навіть якщо ви розробник програмного забезпечення, робота над документацією проекту може допомогти вам почати свій шлях в open source. Починати з проектів, що не мають відношення до коду менш страшно, а процес сумісної праці побудує вам впевненість і досвід.
 
-## Orienting yourself to a new project
+## Налаштування себе на новий проект
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  Якщо в issue трекері все здається заплутаним, справа не тільки у вас. Ці інструменти потребують багато неочевидних знань, але люди можуть вас направити, і ви можете ставити їм питання.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["Як робити внесок в Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+У всіх випадках, окрім можливо виправлення одруку, брати участь в open source - це майже як підходити до групи незнайомців на вечірці. Якщо ви почнете говорити про лам в той час, коли в них у розпалі була дискусія про золотих рибок, на вас дуже дивно подивляться.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+Перш ніж сліпо стрибати зі своїми пропозиціями, навчіться розуміти, над чим зараз думають люди у спільноті. Це підвищить ваші шанси бути поміченим та почутим.
 
-### Anatomy of an open source project
+### Анатомія open source проекту
 
-Every open source community is different.
+Кожна open source спільнота різна.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Пропрацювавши роки на одному open source проекті, ви будете знати один open source проект. Перехід на інший проект може показати вам зовсім інші лексику, норми та спілкування. 
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Враховуючи це, багато open source проектів мають схожу організаційну структуру. Розуміння різних ролей у спільноті та загального процесу допоможе вам швидше почати орієнтуватись у новому проекті.
 
-A typical open source project has the following types of people:
+Типовий open source проект складається с таких типів людей:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **Автор:** Людина (люди) або організація, що створила (створили) проект
+* **Власник:** Людина (люди), що має (мають) адміністративне право власності на організацію або репозиторій (не завжди те ж саме, що початковий автор)
+* **Супровідники:** Контрибьютори, відповідальні за задання бачення і керування організаційними аспектами проекту. (Вони також можуть бути авторами або власниками проекту.) 
+* **Контрибьютори:** Кожен, хто колись зробив внесок у проект.
+* **Члени спільноти:** Люди, які використовують проект. Вони можуть бути активними в розмовах або висловлювати свою думку щодо напрямку розвитку проекту.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Більші проекти можуть також мати підкомітети або робочі групи, зосереджені на різних завданнях, таких як налагодження, сортування завдань, керування спільнотою та організація заходів. Щоб знайти інформацію про це, пошукайте на сайті проекту сторінку "команда" або в репозиторії документацію по управлінню.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+У проекту також є документація. Ці файли зазвичай розміщені в корні репозиторія.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMES help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** За визначенням, кожен open source проект повинен мати [open source ліцензію](https://choosealicense.com). Якщо проект не має ліцензії, він не open source.
+* **README:** README - це посібник з експлуатації, який вітаю нових членів спільноти. Він пояснює, чим корисний цей проект, і як почати ним користуватись.
+* **CONTRIBUTING:** Тоді як файли README допомагають людям _використовувати_ проект, документація contributing допомагає людям _брати участь в розробці_ проекту. Вона пояснює, які типи внесків необхідні, і як побудований процес роботи. Оскільки не всі проекти мають файл CONTRIBUTING, його наявність демонструє, що це гарний проект для участі.
+* **CODE_OF_CONDUCT:** Кодекс честі задає основні правила поведінки учасників і полегшує підтримання дружнього і привітного оточення. Оскільки не всі проекти мають файл CODE_OF_CONDUCT, його наявність демонструє, що це гарний проект для участі.
+* **Інша документація:** У проекті можуть бути присутні й додаткова документація, особливо на більш великих проектах. Наприклад, туторіали, політика управління та інші документи.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Зрештою, open source проекти використовують наступні інструменти для організації обговорень. Щоб побачити картину того, як спільнота думає та працює, треба проглянути її архіви. 
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Issue трекер:** Де люди обговорюють проблеми, пов'язані с проектом.
+* **Pull requests:** Де люди обговорюють і розглядають поточні зміни.
+* **Форуми обговорень та розсилка:** Деякі проекти можуть використовувати ці канали для тем, призначених для обговорень (напр. _"Як я..."_ or _"Що ви думаєте про..."_ замість звітів про баги та запитів нового функціоналу). Інші використовують issue трекер для усіх розмов.
+* **Сихронний чат канал:** Деякі проекти використовують чат канали (такі як Slack або IRC) для випадкових розмов, співробітництва і швидких обмінів.
 
 ## Finding a project to contribute to
 
