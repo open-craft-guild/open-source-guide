@@ -6,7 +6,7 @@ class: best-practices
 toc:
   Що-означає-бути-супровідником: "Що означає бути супровідником?"
   Задокументуйте-свої-процеси: "Задокументуйте свої процеси"
-  learning-to-say-no: "Learning to say no"
+  Навчіться-казати-ні: "Навчіться казати «ні»"
   leverage-your-community: "Leverage your community"
   bring-in-the-robots: "Bring in the robots"
   its-okay-to-hit-pause: "It’s okay to hit pause"
@@ -77,15 +77,15 @@ image: /assets/images/cards/best-practices.png
 
 Таким чином, будь-хто, хто долучиться до вашої спільноти, володітиме тією ж інформацією, що й людина, яка брала участь у проекті впродовж років.
 
-## Learning to say no
+## Навчіться казати «ні»
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Отже, ви все записали. В ідеальному світі усі прочитають вашу документацію, але в реальному вам доведеться нагадувати іншим про існування цих знань.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Утім, наявність інформації у письмовому вигляді дає можливість знеособити ситуації, коли вам необхідно забезпечити дотримання правил.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Непросто казати «ні». Але відповідь _"Ваш внесок не відповідає критеріям проекту"_ є менш особистою, ніж _"Мені не до вподоби ваш внесок"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Вам доведеться казати «ні» у багатьох ситуаціях, з якими ви, як супровідник, будете мати справу. Наприклад, запити функціоналу, які виходять за рамки проекту; люди, котрі зводять обговорення нанівець; виконання непотрібної роботи для інших.
 
 ### Keep the conversation friendly
 
