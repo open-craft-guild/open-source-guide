@@ -60,53 +60,53 @@ Open source є потужним, бо він знижує перешкоди н�
 
 В результаті, більшість open source проектів є безплатними, але "безкоштовність" не входить у визначення поняття open source. У open source проектів є можливості побічно стягувати плату завдяки подвійному ліцензуванню чи обмеженим можливостям, в той же час дотримуючись офіційного визначення open source.
 
-## Should I launch my own open source project?
+## Чи слід мені запускати власний open source проект?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Коротка відповідь — так, тому що не залежно від результату, запуск власного проекту це чудовий спосіб зрозуміти як працює open source.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Якщо ви ніколи не мали open source проекта до цього, то можете нервувати з приводу того що скажуть інші, або чи взагалі хтось це помітить. Якщо звучить знайомо, ви не одні!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Open source робота це як і будь яка інша творча діяльність, як письмо чи живопис. Поділитись своєю працею з усім світом може бути лячно, але практикуватись — це єдиний спосіб стати краще, навіть якщо ви не маєте аудиторії.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Якщо ви ще не переконались, присвятіть хвильку роздумам про свої цілі. Якими вони могли б бути?
 
-### Setting your goals
+### Визначення ваших цілей
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Цілі можуть допомогти вам усвідомити над чим працювати, чому сказати «ні», або де вам знадобиться стороння допомога. Почніть з запитання до себе: _чому я роблю цей проект open source?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Не існує єдиної вірної відповіді на це питання. Ви можете мати багато цілей для одного проекту, або різні проекти з різними цілями.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Якщо вашою метою є лише показати результати своєї роботи, вам мабуть не знадобиться співпраця з іншими і ви навіть можете вказати це у файлі README. З іншого боку, якщо ви бажаєте залучити до проекту інших учасників, то варто попрацювати над документацією, щоб новачки почувались «бажаними гостями».
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  Якось я створив для власних потреб UIAlertView, а потім вирішив зробити його open source. Тож я змінив його, зробив більш динамічним, та завантажив на GitHub. Також я написав деяку документацію, де пояснювалось як інші розробники можуть використати це у своїх проектах. Напевне, ніхто й ніколи цим так і не скористався, бо це був простенький проект, але я був дуже задоволений своїм внеском.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Разом з ростом проекту вашій спільноті може знадобитись від вас дещо більше, ніж просто код. Відповіді на питання, перевірка коду та популяризація вашого проекту також є важливими завданнями в open source проекті.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+Кількість часу, що витрачається на задачі не пов’язані з написанням коду, залежатиме від розміру та сфери вашого проекту. Втім, ви маєте бути готовими взяти їх на себе або знайти когось у поміч.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Якщо ви частина компанії, що займається open source проектом,** упевніться що ваш проект володіє внутрішніми ресурсами достатніми для процвітання. Вам знадобиться визначити хто опікуватиметься проектом після запуску та як ви розподілятимете задачі поміж учасниками спільноти.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+У випадку, коли для просування та підтримки проекту необхідні спеціальний бюджет чи додатковий персонал, всі ці питання мають обговорюватись заздалегідь.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  На старті open source проекту важливо переконатись, що у ваших процесах управління враховуються внески та можливості спільноти згуртованої навколо проекту. Не бійтесь залучати учасників, що не задіяні у ключових аспектах проекту. Особливо, якщо вони роблять часті внески.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### Contributing to other projects
+### Внески в інші проекти
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Якщо у вас на меті стоїть навчитись співпрацювати з іншими чи зрозуміти як працює open source, розгляньте можливість вашої участі в існуючому проекті. Почніть з проекту, яким ви вже користуєтесь і любите. Допомога проекту може полягати навіть у досить простих діях — на зразок виправлення помилок у тексті чи оновлення документації.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Якщо ж ви не впевнені як приєднатись до чужого проекту і з чого почати, ознайомтесь із нашим матеріалом на цю тему — [Як зробити внесок в Open Source](../how-to-contribute/).
 
 ## Launching your own open source project
 
