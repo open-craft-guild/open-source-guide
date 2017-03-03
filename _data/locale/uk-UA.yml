@@ -1,25 +1,25 @@
 nav:
-  about: About
-  contribute: Contribute
+  about: Про нас
+  contribute: Робіть внесок
 
 index:
-  lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+  lead: Програмне забезпечення open source роблять такі ж люди як і ти. Дізнайтеся як запустити і розвивати свій проект.
 
 article:
-  table_of_contents: Table of Contents
+  table_of_contents: Зміст
 
 footer:
   contribute:
-    heading: Contribute
-    description: Want to make a suggestion? This content is open source. Help us improve it.
-    button: Contribute
+    heading: Зробіть внесок
+    description: Бажаєте внести пропозицію? Цей вміст є open source'ним. Допоможіть нам поліпшити його.
+    button:  Зробіть внесок
   subscribe:
-    heading: Subscribe to updates
-    label: Email Address
-    button: Subscribe
+    heading: Підпишіться на оновлення
+    label: Електронна адреса
+    button: Підписатися
   byline:
     # [code], [love], and [github] will be replaced by octicons
-    format: "[code] with [love] by [github]"
+    format: "[code] з [love] [github]"
     # Label for code octicon
     code_label: code
     # Label for love octicon
