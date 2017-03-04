@@ -62,7 +62,7 @@ image: /assets/images/cards/getting-paid.png
 
 Якщо ви шукаєте фінансову підтримку, є два шляхи на розгляд. Ви можете фінансувати свій власний час як вкладник, або ви можете знайти організаційне фінансування проекту.
 
-## Фінансування свого часу
+## Фінансування вашого часу
 
 У наш час, багато людей отримують гроші за неповний або повний день роботи над open source. Найпоширеніший спосіб отримати гроші за ваш час — поговорити з вашим роботодавцем.
 
@@ -121,11 +121,11 @@ image: /assets/images/cards/getting-paid.png
 As open source's popularity increases, finding funding for projects is still experimental. A few current options include:
 Як би не збільшувалась популярність open source, пошук фінансування для проекту ще експериментально. Декілька сучасних (*актуальних**) варіантів включають в себе:
 
-* **Raise money for your work through crowdfunding campaigns or donations.** This strategy works well if you have a strong audience or reputation already, or your project is very popular.
-* **Apply for grant funding.** Some software foundations and companies offer grants for open source work, such as the [Python Software Foundation](https://www.python.org/psf/grants/), [Mozilla Foundation](https://www.mozilla.org/en-US/grants/), and [Stripe](https://stripe.com/blog/open-source-retreat-2016).
-* **Raise sponsorships from companies and individual donors** through a software foundation. Or **start a business** to support the project.
+* **Зібрати гроші на вашу працю через краудфандінгові кампанії чи пожертви.** Ця стратегія гарно працює якщо ви вже маєте солідну аудиторію чи репутацію.
+* **Подайте заяву на грантове фінансування.** Деякі фонди програмного запезпечення або кампанії надають гранти на open source розробку, такі як [Python Software Foundation](https://www.python.org/psf/grants/), [Mozilla Foundation](https://www.mozilla.org/en-US/grants/), та [Stripe](https://stripe.com/blog/open-source-retreat-2016).
+* **Добудьте спонсорство від компаній та індивідуальних дарувальників** через фонди програмного запезпечення. Або **почніть бізнес** для підтримки проекту.
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+Для більш докладних варіантів та тематичних досліджень, @nayafia [написала посібник](https://github.com/nayafia/lemonade-stand) отримання грошей за open source роботу. Різні типи фінансування вимагають різних навичок, тому розгляньте ваші сильні сторони, щоб з'ясувати, який варіант краще всього працює для вас.
 
 ## Building a case for financial support
 
