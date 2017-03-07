@@ -127,27 +127,27 @@ As open source's popularity increases, finding funding for projects is still exp
 
 Для більш докладних варіантів та тематичних досліджень, @nayafia [написала посібник](https://github.com/nayafia/lemonade-stand) отримання грошей за open source роботу. Різні типи фінансування вимагають різних навичок, тому розгляньте ваші сильні сторони, щоб з'ясувати, який варіант краще всього працює для вас.
 
-## Building a case for financial support
+## Створюємо аргументи для фінансової підтримки Building a case for financial support
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Чи ваш проект - це нова ідея, чи він існує протягом багатьох років, ви повинні бути готові вкласти значну думку into identifying your target funder та зробити переконливі аргументи.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Чи ви шукаєте оплату за ваш час, чи збір коштів для проекту, ви повинні бути спроможним відповісти на наступні питання.
 
-### Impact
+### Вплив
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Чому цей проект корисний? Чому користувачі або потенційні користувачі, полюбляють його так сильно? Де він буде через п'ять років?
 
-### Traction
+### Привабливість
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Постарайтеся зібрати докази того, що ваш проект має значення, будь то показники, анекдоти, або відгуки. Чи існують які-небудь компанії або примітні люди, які використовують свій проект прямо зараз? Якщо немає, то вже відома людина, яка схвалила його?
 
-### Value to funder
+### Цінність для спонсорів
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+Спонсори, чи це ваш роботодавець або фонд з надання грантів, часто починають переговори з можливостей. Чому вони повинні підтримувати ваш проект за якусь іншу можливость? Як вони особисто одержують користь?
 
-### Use of funds
+### Використання коштів
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Що, власне, ви досягнете за допомогою пропонованого фінансування? Зосередьтеся на етапах реалізації проекту або результаті, а не на виплаті зарплати.
 
 ### How you'll receive the funds
 
