@@ -486,38 +486,38 @@ Pull request не має представляти завершену робот�
 
 Якщо це ваш перший pull request, подивіться [Зробити Pull Request](http://makeapullrequest.com/), який @kentcdodds створив як безкоштовний туторіал.
 
-## What happens after you submit a contribution
+## Що відбувається після того, як ви відправили внесок
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Ви це зробили! Вітаємо з тим, що ви стали open source контрибьютором. Ми сподіваємось, це перший із багатьох.
 
-After you submit a contribution, one of the following will happen:
+Після того, як ви відправили внесок, станеться щось з цього:
 
-### 😭 You don't get a response.
+### 😭 Ви не отримаєте відповідь.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Сподіваюсь, ви [перевірили проект на наявність ознак активності](#a-checklist-before-you-contribute), перш ніж робити внесок. Але навіть  на активному проекті цілком можливо, що ви не отримаєте відповіді.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Якщо ви не отримували відповідь більш ніж тиждень, це чесно ввічливо відповісти у тій самій підтемі з проханням переглянути ваш внесок. Якщо ви знаєте ім'я підходящої людини, ви можете @-згадати його в цій підтемі.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**Не** виходьте на людину особисто; пам'ятайте, що пубічне спілкування життєво важливе для open source проектів.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Якщо ви ввічливо нагадали, але ніхто досі не відповідає, ймовірно, що ніхто й не відповість, ніколи. Це не найприємніше відчуття, але не давайте цьому вас демотивувати. Таке траплялось з кожним! Існує багато ймовірних причин, через які ви могли не отримати відповідь, у тому числі через особисті обставини, які ви не можете контролювати. Спробуйте знайти інший проект для участі або інший спосіб зробити внесок. Якщо що, це гарна причина не вкладати багато часу в роботу, доки інші члени спільноти не зацікавлені й мовчазні.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Хтось просить внести зміни до вашого внеску.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+Досить поширеним є прохання внести зміни у ваш внесок. Це може бути як фідбек на вашу загальну ідею, так і зміни в коді.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Коли хтось просить змін, відповідайте. Вони виділили час, щоб переглянути ваш внесок. Дуже негарно відкривати PR і зникати. Якщо ви не знаете, як внести зміни, дослідіть проблему, і тоді попросіть про допомогу, якщо вона вам потрібна.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Якщо у вас більше немає часу прцювати над issue (наприклад, якщо розмова триває вже місяцями, і ваші обставини змінились), проінформуйте про це супровідника, щоб він не чекав відповіді. Хтось інший може із задоволенням взятись за це.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Ваш внесок не приймають.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+Ваш внесок можуть прийняти, а можуть і не прийняти. Залишається сподіватись, що ви не вклали в це занадто багато зусиль. Якщо ви невпевнені, чому ваш внесок не прийняли, цілком виправдано попросити у супровідника фідбек або уточнення. Однак врешті решт, ви повинні поважати їхнє рішення. Не сперечайтесь і не ставайте ворожими. Ви завжди можете відгалужити проект і працювати над своєю версією, якщо ви не згодні!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Ваш внесок приймають.
 
-Hooray! You've successfully made an open source contribution!
+Ура! Ви успішно зробили внесок в open source!
 
-## You did it!
+## Ви це зробили!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Чи то ви тільки що зробили свій перший внесок в open source, чи то ви шукаєте нові способи робити внески, ми сподіваємось, що нам вдалось вас надихнути на вживання якихось заходів. Навіть якщо ваш внесок не був прийнятий, не забувайте подякувати супровідника, якщо він доклав зусиль, щоб вам допомогти. Open source створюється такими людьми, як ви: по одному issue, pull request'у або коментарю.
