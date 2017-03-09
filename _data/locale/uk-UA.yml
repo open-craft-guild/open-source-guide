@@ -1,0 +1,26 @@
+nav:
+  about: Про нас
+  contribute: Робіть внесок
+
+index:
+  lead: Програмне забезпечення open source роблять такі ж люди як і ти. Дізнайтеся як запустити і розвивати свій проект.
+
+article:
+  table_of_contents: Зміст
+
+footer:
+  contribute:
+    heading: Зробіть внесок
+    description: Маєте пропозицію? Цей вміст є open source'ним. Допоможіть нам поліпшити його.
+    button:  Зробіть внесок
+  subscribe:
+    heading: Підпишіться на оновлення
+    label: Електронна адреса
+    button: Підписатися
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] з [love] [github]"
+    # Label for code octicon
+    code_label: code
+    # Label for love octicon
+    love_label: love
