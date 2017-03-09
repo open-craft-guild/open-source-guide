@@ -7,6 +7,9 @@ translations:
   en-US:
     name: English (US)
     url: https://opensource.guide
+  uk-UA:
+    name: Ukrainian
+    url: https://open-craft-guild.github.io/open-source-guide
 
 exclude:
   - bin
