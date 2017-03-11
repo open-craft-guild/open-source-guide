@@ -28,7 +28,7 @@ Remember that people get involved as users, and eventually contributors, because
 
 For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
 
-![cartography readme](/assets/images/finding-users/cartography.jpg)
+![cartography readme](/assets/images/en-US/finding-users/cartography.jpg)
 
 For a deeper diver into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
 
@@ -61,7 +61,7 @@ If you don't wish to set up these channels for your project yet, promote your ow
 
 If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
 
-![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![vagrant homepage](/assets/images/en-US/finding-users/vagrant_homepage.png)
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
@@ -91,7 +91,7 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ## Go where your project's audience is (offline)
 
-![public speaking](/assets/images/finding-users/public_speaking.jpg)
+![public speaking](/assets/images/en-US/finding-users/public_speaking.jpg)
 
 Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
 
@@ -110,7 +110,7 @@ If you've never spoken at an event before, it's perfectly normal to feel nervous
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 <aside markdown="1" class="pquote">
-  <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
+  <img src="/assets/images/en-US/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
