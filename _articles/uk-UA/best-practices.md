@@ -87,48 +87,49 @@ image: /assets/images/cards/best-practices.png
 
 Вам доведеться казати «ні» у багатьох ситуаціях, з якими ви, як супровідник, будете мати справу. Наприклад, запити функціоналу, які виходять за рамки проекту; люди, котрі зводять обговорення нанівець; виконання непотрібної роботи для інших.
 
-### Keep the conversation friendly
+### Підртимуйте дружній тон спілкування
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+В основному вам доведеться відмовляти у відкритих іш'ю і чисельних пул-реквестах. Як супровідник, ви неминуче отримаєте такі пропозиції щодо проекту, які не захочете приймати.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Можливо, внесок змінює рамки проекту або не співпадає з вашим баченням. Можливо, хоч ідея і чудова, її реалізація залишає бажати кращого.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Незалежно від причин, завжди можна тактовно поводитися по відношенню до внесків, які не відповідають стандартам вашого проекту.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Припустимо, ви отримали внесок, який не бажаєте приймати. Першою реакцією може виникнути бажання проігнорувати його або зробити вигляд, ніби ви його не бачили. Учинивши так, ви можете зачепити почуття іншої людини або ж навіть демотивувати інших потенційних учасників своєї спільноти.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  Ключем до підтримки великих open source проектів є рух іш'ю. Намагайтеся уникати їх застою. Якщо ви iOS розробник, то знаєте наскільки може розчаровувати відкриття «радарів». Отримати відповідь ви можете аж через 2 роки, при цьому вона може містити пропозицію спробувати ще раз, але вже з останньою версією iOS.
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["Розширення open source спільнот"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Не залишайте небажані внески відкритими тільки тому, що почуваєтеся винним або хочете бути ввічливим. З часом через іш'ю та пул-реквести, що залишилися без відповіді, робота над вашим проектом стане більш стресовою та лячною.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Набагато краще одразу закривати внески, які ви точно не бажаєте приймати. Якщо ваш проект вже перевантажений надмірно великим списком завдань, то у @steveklabnik є пропозиція щодо того, [як ефективно впорядкувати іш'ю](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+До того ж, ігнорування внесків посилає негативний сигнал для спільноти. Робити внесок до проекту — лячно, особливо, якщо хтось це робить вперше. Навіть якщо ви не приймаєте внесок, подякуйте авторові за нього та за проявлений інтерес. Для вас це не складно, а авторові буде приємно.
 
-If you don't want to accept a contribution:
+Якщо ви не бажаєте приймати внесок:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* **Подякуйте авторам** за внесок.
+* **Поясніть, чому саме цей внесок не підходить** проекту та, якщо можете, запропонуйте чіткі пропозиції для покращення. Будьте люб'язні, але і непохитні.
+* **Додайте посилання на відповідну документацію**, якщо маєте його. Якщо ви помічаєте, що запити, які ви не бажаєте приймати, повторюються, — задокументуйте інформацію про це, аби не відповідати одне й те саме.
+* **Закрийте запит**.
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
 
-![celery screenshot](/assets/images/best-practices/celery.png)
+Зазвичай, для відповіді вам має бути достатньо 1-2 речень. Наприклад, коли користувач [celery](https://github.com/celery/celery) повідомив про помилку, пов'язану із Windows, @berkerpeksag [відповів](https://github.com/celery/celery/issues/3383):
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+![celery screenshot](/assets/images/uk-UA/best-practices/celery.png)
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+Якщо сама лише думка про відмову лякає вас, знайте: ви не одні. Як [зазначив](https://blog.jessfraz.com/post/the-art-of-closing/) @jessfraz:
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+> Я говорив із супровідниками різних open source проектів, таких як Mesos, Kubernetes, Chromium. І вони всі погодилися, що однією з найважчих речей, які їм, як супровідникам, доводиться робити, — це казати «ні» латкам (patch), яких вони не бажають.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Не варто почуватися винним через небажання приймати чийсь внесок. Першим правилом open source є ([згідно з](https://twitter.com/solomonstre/status/715277134978113536) @shykes): _"«Ні» — це тимчасово, «так» — це назавжди"_. Перейматися через ентузіазм іншої людини — добре, але варто пам'ятати, що відхилення внеску — це не відхилення людини, що стоїть за ним.
+
+Врешті-решт, якщо внесок залишає бажати кращого, ви не зобов'язані приймати його. Будьте люб'язними та чуйними, коли люди роблять внески у ваш проект, але приймайте лише ті зміни, які, на вашу думку, зроблять ваш проект кращим. Чим частіше ви практикуєтеся казати «ні», тим легше стає це робити. Повірте.
 
 ### Be proactive
 
