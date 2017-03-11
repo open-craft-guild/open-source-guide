@@ -118,7 +118,6 @@ image: /assets/images/cards/best-practices.png
 * **Додайте посилання на відповідну документацію**, якщо маєте його. Якщо ви помічаєте, що запити, які ви не бажаєте приймати, повторюються, — задокументуйте інформацію про це, аби не відповідати одне й те саме.
 * **Закрийте запит**.
 
-
 Зазвичай, для відповіді вам має бути достатньо 1-2 речень. Наприклад, коли користувач [celery](https://github.com/celery/celery) повідомив про помилку, пов'язану із Windows, @berkerpeksag [відповів](https://github.com/celery/celery/issues/3383):
 
 ![celery screenshot](/assets/images/uk-UA/best-practices/celery.png)
