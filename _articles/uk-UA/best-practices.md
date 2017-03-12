@@ -130,34 +130,34 @@ image: /assets/images/cards/best-practices.png
 
 Врешті-решт, якщо внесок залишає бажати кращого, ви не зобов'язані приймати його. Будьте люб'язними та чуйними, коли люди роблять внески у ваш проект, але приймайте лише ті зміни, які, на вашу думку, зроблять ваш проект кращим. Чим частіше ви практикуєтеся казати «ні», тим легше стає це робити. Повірте.
 
-### Be proactive
+### Грайте на випередження
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Для того, щоб зменшити обсяг небажаних внесків, поясніть у керівництві про співпрацю процеси створення та прийняття внесків до вашого проекту.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Якщо ви отримуєте дуже багато низькоякісних внесків, вимагайте, щоб учасники попередньо виконали певні дії, наприклад:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Заповнили шаблон/контрольний список для іш'ю або пул-реквесту
+* Відкрили іш'ю перед тим, як робити пул-реквест
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Якщо вони не слідують вашим правилам — одразу закривайте іш'ю та вказуйте на документацію.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Хоч такий підхід спершу і може видатися недобрим, гра на випередження, насправді, вигідна обом сторонам. Вона зменшує шанс того, що хтось витратить чимало часу на пул-реквест, який ви не збираєтеся приймати. Також це полегшує управління робочим навантаженням.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  В ідеалі, поясніть і опишіть у файлі CONTRIBUTING.md, як ще до початку роботи отримати краще розуміння, чи буде ця робота прийнята, чи ні.
   <p markdown="1" class="pquote-credit">
-— @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @mikemcquaid, ["Закриваємо пул-реквести люб'язно"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to diffuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Іноді, коли ви відмовляєте, ваш потенційний учасник може засмутитися або почати критикувати ваше рішення. У випадку, якщо поведінка цього учасника стає ворожою (недружньою), [вжийте заходів, щоб розрядити обстановку](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items), або ж навіть виключіть його зі спільноти, якщо він не бажає конструктивно співпрацювати.
 
-### Embrace mentorship
+### Використовуйте наставництво
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Можливо, дехто у вашій спільноті регулярно надсилає внески, які не підходять під стандарти вашого проекту. Для обох сторін неодноразово проходити етап відмови може бути неприємно.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Якщо ви бачите, що хтось сповнений ентузіазму щодо вашого проекту, але при цьому, на вашу думку, потребує поліпшення, будьте терплячі. У кожній ситуації чітко поясніть, чому внесок не співпадає з очікуваннями проекту. Намагайтеся вказати на завдання, яке простіше або менш неоднозначне. Наприклад, іш'ю позначене як _"хороша перша вада"_, для того, щоб почати. Якщо ви маєте на це час, то подумайте над тим, щоб наставляти учасника протягом його роботи над першим внеском. Або ж знайдіть у спільноті когось іншого, хто був би не проти цим зайнятися.
 
 ## Leverage your community
 
