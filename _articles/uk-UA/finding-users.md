@@ -1,11 +1,11 @@
 ---
-locale: en-US
-title: Finding Users For Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+locale: uk-UA
+title: Пошук користувачів для вашого проекту
+description: Добопожіть вашому open source проекту рости віддашви його в руки щасливих користувачів.
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
-  figure-out-your-message: "Figure out your message"
+  розповісти-світові: "Розповісти світові"
+  придумати-послання: "Придумати послання"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
@@ -16,21 +16,21 @@ image: /assets/images/cards/finding.png
 
 ## Spreading the word
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you are hoping others will find and use your open source project, however, it's time to tell everybody about your hard work!
+Ніхто не змушує вас розповідати про свій open source проект одразу ж після запуску. Існує вдосталь поважних причин працювати над open source, не включаючи набуття популярності. Якщо ви все ж сподіваєтесь, що інші люди знайдуть ваш проект і скористаються ним, саме час розповісти всім про вашу тяжку працю!
 
 ## Figure out your message
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Перш ніж починати просувати свій проект треба вміти пояснити що він робить і чим він важливий.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
+Що робить ваш проект унікальним чи цікавим? Навіщо ви його створили? Вам буде легше переконати інших якщо ви відповісте на ці питання для себе самого.
 
-Remember that people get involved as users, and eventually contributors, because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
+Пам'ятайте, що люди спершу підключаються як користувачі, а зрештою як і співавтори, тому що ваш проект вирішує їх проблеми. Розмірковуючи над його посланням і цінністю спробуйте поглянути на нього з точки зору _їх_ потреб.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Наприклад, @robb використовую шматки коду, щоб чітко донести чим його проект, [Cartography](https://github.com/robb/Cartography), корисний:
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-For a deeper diver into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Щоб краще ознайомитися з повідомлення подивіться на вправи ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) Mozilla розробників.
 
 ## Help people find and follow your project
 
