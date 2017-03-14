@@ -114,9 +114,9 @@ image: /assets/images/cards/getting-paid.png
 
 Кілька прикладів проектів з організаційним фінансуванням включають:
 
-* **[webpack](https://github.com/webpack),** котрий збирає гроші с компаній та фізичних осіб money [через OpenCollective](https://opencollective.com/webpack)
+* **[webpack](https://github.com/webpack),** котрий збирає гроші с компаній та фізичних осіб [через OpenCollective](https://opencollective.com/webpack)
 * **[Vue](https://github.com/vuejs/vue),** створенний @yyx990803, котрий [фінансується через Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** некоммерційна організація створена @indirect that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[Ruby Together](https://rubytogether.org/),** некоммерційна організація створена @indirect що оплачує роботу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), та іншіми проектами інфраструктури Ruby
 
 As open source's popularity increases, finding funding for projects is still experimental. A few current options include:
 Як би не збільшувалась популярність open source, пошук фінансування для проекту ще експериментально. Декілька сучасних (*актуальних**) варіантів включають в себе:
@@ -129,7 +129,7 @@ As open source's popularity increases, finding funding for projects is still exp
 
 ## Створюємо аргументи для фінансової підтримки Building a case for financial support
 
-Чи ваш проект - це нова ідея, чи він існує протягом багатьох років, ви повинні бути готові вкласти значну думку into identifying your target funder та зробити переконливі аргументи.
+Чи ваш проект – це нова ідея, чи він існує протягом багатьох років, ви повинні бути готові гарно подумати та визначити вашого спонсора та підготувати переконливі аргументи.
 
 Чи ви шукаєте оплату за ваш час, чи збір коштів для проекту, ви повинні бути спроможним відповісти на наступні питання.
 
@@ -149,20 +149,23 @@ As open source's popularity increases, finding funding for projects is still exp
 
 Що, власне, ви досягнете за допомогою пропонованого фінансування? Зосередьтеся на етапах реалізації проекту або результаті, а не на виплаті зарплати.
 
-### How you'll receive the funds
+### Як ви отримаєте кошти
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+Чи є у фінансуючого будь-які вимоги до виділення кошт? Наприклад, вам може знадобитися бути некоммерційною організацією або мати некомерційний фіскального спонсора. Або, можливо, ці кошти повинні бути надані для індивідуального підрядника, а не організації. Ці вимоги варіюються між спонсорам, так що не забудьте зробити ваші дослідження заздалегідь.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
   For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  Протягом багатьох років ми були провідним ресурсом серед веб-сайтів привітних іконок, з спільнотою більше 20 мільйонів чоловік, і були показані на більш ніж 70 мільйонів веб-сайтів, в тому числі WhiteHouse.gov. (...) Версія 4 була три роки тому. Веб-технології сильно змінились з тих пір, і, чесно кажучи, Font Awesome, став трохи застарілим. (...) Ось чому ми презентуємо Font Awesome 5. Ми модернізуємо і переписуємо CSS та реорганізуємо кожен значок від початку і до кінця. Ми узгоджуємо кращий дизайн, кращу послідовність і кращу чіткість.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Експериментуйте та не здавайтесь
 
 Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+
+Залучення грошей – це не просто, чи у вас open source проект, некомерційний, або стартап програмного забезпечення, і в більшості випадків, вам потрібно бути творчим. Визначення того як ви хочете отримувати гроші, роблячи ваші дослідження, та перенесення себе на місце вашого фінансуючого допоможе вам побудувати переконливі аргументи на користь фінансування.
 
 >
