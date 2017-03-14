@@ -1,12 +1,12 @@
 ---
 locale: uk-UA
 title: Пошук користувачів для вашого проекту
-description: Добопожіть вашому open source проекту рости віддашви його в руки щасливих користувачів.
+description: Допопожіть своєму open source проекту рости віддавши його в руки щасливих користувачів.
 class: finding
 toc:
-  розповісти-світові: "Розповісти світові"
-  придумати-послання: "Придумати послання"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
+  Розповісти-Світові: "Розповісти Світові"
+  Придумати-Послання: "Придумати Послання"
+  Допоможіть-Іншим-Людям-Знайти-і-Стежити-За-Своїм-Проектом: "Допоможіть Іншим Людям Знайти і Стежити За Своїм Проектом"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
   build-a-reputation: "Build a reputation"
@@ -14,30 +14,30 @@ order: 3
 image: /assets/images/cards/finding.png
 ---
 
-## Spreading the word
+## Розповісти Світові
 
-Ніхто не змушує вас розповідати про свій open source проект одразу ж після запуску. Існує вдосталь поважних причин працювати над open source, не включаючи набуття популярності. Якщо ви все ж сподіваєтесь, що інші люди знайдуть ваш проект і скористаються ним, саме час розповісти всім про вашу тяжку працю!
+Ніхто не змушує вас розповідати про свій open source проект одразу ж після запуску. Існує вдосталь поважних причин працювати над open source, не включаючи набуття популярності. Якщо ви все ж сподіваєтесь, що інші люди знайдуть ваш проект і скористаються ним, саме час розповісти всім про свою тяжку працю!
 
-## Figure out your message
+## Придумати Послання
 
-Перш ніж починати просувати свій проект треба вміти пояснити що він робить і чим він важливий.
+Перш ніж починати просувати свій проект, треба вміти пояснити що він робить і чим він важливий.
 
-Що робить ваш проект унікальним чи цікавим? Навіщо ви його створили? Вам буде легше переконати інших якщо ви відповісте на ці питання для себе самого.
+Що робить ваш проект унікальним чи цікавим? Навіщо ви його створили? Дайте відповіді для себе самого і вам буде легше переконати інших.
 
-Пам'ятайте, що люди спершу підключаються як користувачі, а зрештою як і співавтори, тому що ваш проект вирішує їх проблеми. Розмірковуючи над його посланням і цінністю спробуйте поглянути на нього з точки зору _їх_ потреб.
+Пам'ятайте, що люди спершу підключаються як користувачі (а зрештою як і співавтори), тому що ваш проект вирішує їх проблеми. Розмірковуючи над його посланням і цінністю, спробуйте поглянути на нього з точки зору _їх_ потреб.
 
-Наприклад, @robb використовую шматки коду, щоб чітко донести чим його проект, [Cartography](https://github.com/robb/Cartography), корисний:
+Наприклад, @robb використовує шматки коду, щоб чітко донести чим його проект, [Cartography](https://github.com/robb/Cartography), корисний:
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-Щоб краще ознайомитися з повідомлення подивіться на вправи ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) Mozilla розробників.
+Щоб краще ознайомитися з повідомленням подивіться на вправи ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) Mozilla для розробників.
 
-## Help people find and follow your project
+## Допоможіть Іншим Людям Знайти і Стежити За Своїм Проектом
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  В ідеалі вам потрібна одна "домашня" веб-адреса, яку можна прорекламувати і направити усіх зацікавлених у вашому проекті. Не потрібно витрачатися на фантастичний дизайн чи, навіть, на доменне ім'я, але вашому проекту потрібна точка фокусування.
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Пітер Купер та Роберт Наймен, ["Як Поширити Інформацію Про Ваш Код"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
