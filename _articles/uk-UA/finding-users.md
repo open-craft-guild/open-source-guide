@@ -1,12 +1,12 @@
 ---
 locale: uk-UA
 title: Пошук користувачів для вашого проекту
-description: Допопожіть своєму open source проекту рости віддавши його в руки щасливих користувачів.
+description: Допопожіть своєму open source проекту рости, віддавши його до рук щасливих користувачів.
 class: finding
 toc:
-  Розповісти-Світові: "Розповісти Світові"
-  Придумати-Послання: "Придумати Послання"
-  Допоможіть-Іншим-Людям-Знайти-і-Стежити-За-Своїм-Проектом: "Допоможіть Іншим Людям Знайти і Стежити За Своїм Проектом"
+  Розповісти-світові: "Розповісти світові"
+  Придумати-послання: "Придумати послання"
+  Допоможіть-іншим-людям-знайти-і-стежити-за-вашим-проектом: "Допоможіть іншим людям знайти і стежити за вашим проектом"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
   build-a-reputation: "Build a reputation"
@@ -14,11 +14,11 @@ order: 3
 image: /assets/images/cards/finding.png
 ---
 
-## Розповісти Світові
+## Розповісти світові
 
 Ніхто не змушує вас розповідати про свій open source проект одразу ж після запуску. Існує вдосталь поважних причин працювати над open source, не включаючи набуття популярності. Якщо ви все ж сподіваєтесь, що інші люди знайдуть ваш проект і скористаються ним, саме час розповісти всім про свою тяжку працю!
 
-## Придумати Послання
+## Придумати послання
 
 Перш ніж починати просувати свій проект, треба вміти пояснити що він робить і чим він важливий.
 
@@ -30,22 +30,22 @@ image: /assets/images/cards/finding.png
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-Щоб краще ознайомитися з повідомленням подивіться на вправи ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) Mozilla для розробників.
+Щоб краще ознайомитися з повідомленням подивіться на вправи ["Особистості та їх життєві шляхи"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) Mozilla для розробників.
 
-## Допоможіть Іншим Людям Знайти і Стежити За Своїм Проектом
+## Допоможіть іншим людям знайти і стежити за вашим проектом
 
 <aside markdown="1" class="pquote">
-  В ідеалі вам потрібна одна "домашня" веб-адреса, яку можна прорекламувати і направити усіх зацікавлених у вашому проекті. Не потрібно витрачатися на фантастичний дизайн чи, навіть, на доменне ім'я, але вашому проекту потрібна точка фокусування.
+  В ідеалі вам потрібна одна "домашня" веб-адреса, яку можна прорекламувати і куди направити усіх зацікавлених у вашому проекті. Не потрібно витрачатися на фантастичний дизайн чи, навіть, на доменне ім'я, але вашому проекту потрібна точка фокусування.
   <p markdown="1" class="pquote-credit">
 — Пітер Купер та Роберт Наймен, ["Як Поширити Інформацію Про Ваш Код"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+Допомжіть людям знайти і запам'ятати ваш проект направивши їх до єдиного простору імен.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene.
+**Майте чіткий нік для просування своєї роботи.** Нікнейм у Twitter, посилання на GitHub, або IRC-канал - це прості способи направити людей до свого проекту. Вони також дають спільноті, що стрімко зростає довкола вашого проекту, місце для зборів.
 
-If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
+Якщо ви поки не бажаєте заводити ці канали для свого проекту, просувайте власний нік на Twitter чи GitHub за будь-якої зручної нагоди. Наприклад, включайте їх до свого резюме чи до слайдів, які показуєте підчас виступів. Таким чином люди знатимуть як з вами зв'язатися чи знайти вашу роботу.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
