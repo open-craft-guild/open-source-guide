@@ -1,13 +1,13 @@
 ---
-locale: en-US
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+locale: uk-UA
+title: Отримання грошей за open source роботу
+description: Підтримуйте свою роботу над open source, отримуючи фінансову підтримку за свій час або на ваш проект.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
+  Чому-деякі-люди-звертаються-за-фінансовою-підтримкою: "Чому деякі люди звертаються за фінансовою підтримкою"
+  Фінансування-вашого-часу: "Фінансування вашого часу"
+  Пошук-фінансування-для-свого-проекту: "Пошук фінансування для свого проекту"
+  Створюємо-аргументи-для-фінансової-підтримки: "Створюємо аргументи для фінансової підтримки"
 order: 7
 image: /assets/images/cards/getting-paid.png
 ---
@@ -127,7 +127,7 @@ As open source's popularity increases, finding funding for projects is still exp
 
 Для більш докладних варіантів та тематичних досліджень, @nayafia [написала посібник](https://github.com/nayafia/lemonade-stand) отримання грошей за open source роботу. Різні типи фінансування вимагають різних навичок, тому розгляньте ваші сильні сторони, щоб з'ясувати, який варіант краще всього працює для вас.
 
-## Створюємо аргументи для фінансової підтримки Building a case for financial support
+## Створюємо аргументи для фінансової підтримки
 
 Чи ваш проект – це нова ідея, чи він існує протягом багатьох років, ви повинні бути готові гарно подумати та визначити вашого спонсора та підготувати переконливі аргументи.
 
@@ -155,7 +155,6 @@ As open source's popularity increases, finding funding for projects is still exp
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
   Протягом багатьох років ми були провідним ресурсом серед веб-сайтів привітних іконок, з спільнотою більше 20 мільйонів чоловік, і були показані на більш ніж 70 мільйонів веб-сайтів, в тому числі WhiteHouse.gov. (...) Версія 4 була три роки тому. Веб-технології сильно змінились з тих пір, і, чесно кажучи, Font Awesome, став трохи застарілим. (...) Ось чому ми презентуємо Font Awesome 5. Ми модернізуємо і переписуємо CSS та реорганізуємо кожен значок від початку і до кінця. Ми узгоджуємо кращий дизайн, кращу послідовність і кращу чіткість.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
@@ -163,8 +162,6 @@ As open source's popularity increases, finding funding for projects is still exp
 </aside>
 
 ## Експериментуйте та не здавайтесь
-
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
 
 Залучення грошей – це не просто, чи у вас open source проект, некомерційний, або стартап програмного забезпечення, і в більшості випадків, вам потрібно бути творчим. Визначення того як ви хочете отримувати гроші, роблячи ваші дослідження, та перенесення себе на місце вашого фінансуючого допоможе вам побудувати переконливі аргументи на користь фінансування.
 
