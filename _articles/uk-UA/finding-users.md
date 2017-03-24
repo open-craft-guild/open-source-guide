@@ -49,13 +49,13 @@ image: /assets/images/cards/finding.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  Даремно я від початку не завів Twitter аккаунт для свого проекту. Twitter - це чудовий спосіб тримати аудиторію в курсі останніх змін на проекті а також постійно залучати до нього людей.
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["Історія шторму довкола Apache і вивчені уроки"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
+**Поміркуйте над створенням сайту для свого проекту.** Вебсайт допоможе проекту стати привітнішим і легшим у навігації, особливо якщо має детальну документацію і уроки. Це дає зрозуміти, що проект активний і це допоможе аудиторії почуватися впевненішим використовуючи його. Використовуйте приклади, щоб користувачі зрозуміли як ним користуватися.
 
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
 
