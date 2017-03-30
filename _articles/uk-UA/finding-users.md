@@ -57,11 +57,11 @@ image: /assets/images/cards/finding.png
 
 **Поміркуйте над створенням сайту для свого проекту.** Вебсайт допоможе проекту стати привітнішим і легшим у навігації, особливо якщо має детальну документацію і уроки. Це дає зрозуміти, що проект активний і це допоможе аудиторії почуватися впевненішим використовуючи його. Використовуйте приклади, щоб користувачі зрозуміли як ним користуватися.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), співавтор Django, сказав, що вебсайт був _"поки що найважливішим кроком, який ми зробили з Django на початку"_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+Якщо ваш проект розміщено на GitHub, ви можете скористатися [GitHub сторінками](https://pages.github.com/) щоб легко створти вебсайт. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), та [Middleman](https://middlemanapp.com/) ось [кілька прикладів](https://github.com/showcases/github-pages-examples) чудових, складних вебсайтів.
 
-![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![Домашня сторінка vagrant](/assets/images/finding-users/vagrant_homepage.png)
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
