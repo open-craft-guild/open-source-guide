@@ -7,7 +7,7 @@ toc:
   Що-означає-бути-супровідником: "Що означає бути супровідником?"
   Задокументуйте-свої-процеси: "Задокументуйте свої процеси"
   Навчіться-казати-ні: "Навчіться казати «ні»"
-  leverage-your-community: "Leverage your community"
+  Використовуйте-свою-спільноту: "Використовуйте свою спільноту"
   bring-in-the-robots: "Bring in the robots"
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
@@ -159,51 +159,53 @@ image: /assets/images/cards/best-practices.png
 
 Якщо ви бачите, що хтось сповнений ентузіазму щодо вашого проекту, але при цьому, на вашу думку, потребує поліпшення, будьте терплячі. У кожній ситуації чітко поясніть, чому внесок не співпадає з очікуваннями проекту. Намагайтеся вказати на завдання, яке простіше або менш неоднозначне. Наприклад, іш'ю позначене як _"хороша перша вада"_, для того, щоб почати. Якщо ви маєте на це час, то подумайте над тим, щоб наставляти учасника протягом його роботи над першим внеском. Або ж знайдіть у спільноті когось іншого, хто був би не проти цим зайнятися.
 
-## Leverage your community
+## Використовуйте свою спільноту
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Вам необов'язково все робити власноруч. Спільнота вашого проекту існує не просто так! Навіть якщо ви ще не маєте активних учасників у спільноті, якщо ви маєте багато користувачів — дайте їм якусь роботу.
 
-### Share the workload
+### Розподіляйте навантаження
 
-If you're looking for others to pitch in, start by asking around.
+Для пошуку людей, які могли б активно займатися проектом, почніть з розпитувань.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Якщо ви бачите, що нові учасники час від часу роблять внески, визнайте їхню роботу, запрпонувавши їм більше відповідальності. Якщо інші учасники бажають досягти лідерських позицій у проекті, задокументуйте, як вони можуть це зробити.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
+Заохочуйте інших [розділити права власності на проект](../building-community/#share-ownership-of-your-project) — це помітно зменшить навантаження на вас, — з'ясувала @lmccart під час роботи над своїм проектом [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’d been saying, “Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...].” We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  Я казала: "Так, будь хто може взяти участь і для цього не потрібно мати багато досвіду у програмуванні [...]." Люди реєструвалися, щоб прийти [на захід], і тоді мені стало цікаво: чи дійсно все так, як я кажу? Мали прийти майже 40 людей, і навряд я змогла би сидіти з кожним із них... Але люди прийшли разом, і все спрацювало. Як тільки комусь із них вдавалося розібратися, то та людина вже могла навчити і свого сусіда.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, ["Що “Open Source” взагалі означає? Видання p5.js"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Якщо вам треба відійти від проекту, ненадовго чи назавжди, — немає нічого ганебного в тому, щоб попросити когось приглянути за ним замість вас.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Якщо інші люди зацікавлені у тому, як розвивається ваш проект, — дайте їм доступ, можливість комітити, або формально передайте управління комусь іншому. Якщо хтось зробив форк вашого проекту та активно супроводжує його деінде, подумайте над тим, щоб додати посилання з вашого проекту на форк. Це ж так круто, що так багато людей хочуть, аби ваш проект продовжував жити!
 
+@progrium [виявив](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/), що документування бачення його проекту [Dokku](https://github.com/dokku/dokku) допомогло поставленим цілям жити навіть після того, як він перестав займатися проектом:
 @progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> Я написав вікі-сторінку, яка описувала, чого я бажаю та чому. Для мене стало несподіванкою те, що супровідники почали розвивати проект у тому самому напрямку. Чи робили вони все так, як би це робив я? Не завжди. Але все ж це зробило проект ближчим до того, що я написав.
 
-### Let others build the solutions they need
+### Дайте іншим будувати ті рішення, яких вони потребують
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Якщо потенційний учасник має відмінну від вашої точку зору щодо того, що повинен робити проект, ви можете ввічливо заохотити його розвивати цю ідею у його власному форку.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Форк проекту не означає щось погане. Можливість копіювати та змінювати проекти — одна з найкращих штук в open source. Надихайте учасників спільноти працювати над їхніми форками — це надасть їм віддушину для творчості, яка не конфліктуватиме з вашим баченням проекту.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  Я намагаюся догодити 80% сценаріїв використання. Якщо ви один із рідкісних однорогів — будь ласка, зробіть форк. Я не ображуся! Мої публічні проекти майже завжди мають на меті вирішити найбільш поширені проблеми; я намагаюся спростити для інших процес заглиблення за допомогою або створення форку, або розширення моєї роботи.
+
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["Чому я закриваю пул-реквести"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+Те ж саме стосується користувачів, які бажають ті рішення, що ви просто не здатні побудувати. Пропонуючи API та налаштовувані хуки, ви можете допомогти іншим вирішити їхні потреби, не змінюючи безпосередньо вихідний код. @orta [виявив](http://artsy.github.io/blog/2016/07/03/handling-big-projects/), що заохочення до створення плагінів для CocoaPods призело до "деяких із найцікавіших ідей":
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> Коли проект стає справді великим, майже неминуче те, що супровідники стають куди більш консервативними щодо додоавання нового коду. Ви починаєте дуже добре казати "ні", але багато людей мають виправдані потреби. Тож натомість ви перетворюєте свій інструмент на платформу.
 
 ## Bring in the robots
 
