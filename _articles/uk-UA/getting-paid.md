@@ -1,167 +1,167 @@
 ---
-locale: en-US
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+locale: uk-UA
+title: Отримання грошей за open source роботу
+description: Підтримуйте свою роботу над open source, отримуючи фінансову підтримку за свій час або на ваш проект.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
+  Чому-деякі-люди-звертаються-за-фінансовою-підтримкою: "Чому деякі люди звертаються за фінансовою підтримкою"
+  Фінансування-вашого-часу: "Фінансування вашого часу"
+  Пошук-фінансування-для-свого-проекту: "Пошук фінансування для свого проекту"
+  Створюємо-аргументи-для-фінансової-підтримки: "Створюємо аргументи для фінансової підтримки"
 order: 7
 image: /assets/images/cards/getting-paid.png
 ---
 
-## Why some people seek financial support
+## Чому деякі люди звертаються за фінансовою підтримкою
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Велика частина open source роботи є добровільною. Наприклад, хтось може зіткнутися з помилкою в проекті, який вони використовують, і запропонувати (*затвердити**) швидке виправлення, або вони могли б насолоджуватися баловством з проектом з відкритим вихідним кодом в свій вільний час.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Я шукав "хобі" проект з программування, який буде тримати мене зайнятими протягом Різдвяного тижня. (...) У мене був домашній комп'ютер, і небагато інших турбот. Я вирішив написати інтерпретатор для нової мови сценаріїв, про котрий я думав останнім часом. (...) Я вибрав Python за робочу назву.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Є багато причин, чому людина не хотіла б отримувати зарплату за свою роботу над open source.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Вони, можливо, вже працюють повний робочий день, на роботі, яку вони люблять,** що дозволяє їм внести свій вклад в open source у вільний час.
+* **Їм подобається думати про open source як про хоббі** або творчу віддушину і не хочеться відчувати себе фінансово зобов'язаним працювати над своїми проектами.
+* **Вони отримують інші вигоди від внесків в open source,** такі як створення репутації або портфоліо, вивчення чогось нового, або відчуття близькості до спільноти.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  Фінансові пожертви додають почуття відповідальності, для деяких. (...) Це важливо для нас, в глобально взаємнозалежному, мінливому світі, в якому ми живемо, щоб бути в змозі сказати: "Не зараз, я відчуваю, що роблю щось зовсім інше".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["Чому ми не приймаємо пожертви"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Для інших, особливо коли внески постійні або вимагають значних витрат часу, отримувати гроші за свої внески у open source являє собою єдиний спосіб, яким вони можуть брати участь, або тому, що проект вимагає цього, або з особистих причин.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Утримання популярних проектів може бути великою відповідальністю, займаючи 10 або 20 годин на тиждень замість кількох годин на місяць.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  Запитайте будь-кого, хто утримує open source проект, і вони розкажуть вам про реальність обсягів роботи, які входять в управління проектом. У вас є клієнти. Ви вирішуєте проблеми для них. Ви створюєте нові функції. Це стає реальним попитом на ваш час.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time.
+Оплачувана робота також дозволяє людям з різних верств суспільства внести значний вклад. Деякі люди не можуть дозволити собі витрачати безоплатний час на open source проекти через їх поточне фінансове становище, борг, сім'ю або інші заощаджувальні зобов'язання. Це означає, що світ ніколи не бачить вклади від талановитих людей, які не можуть дозволити собі, безоплатно витратити свій час.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   Відкрите програмне забезпечення дає величезні переваги для галузі інформаційних технологій, що, в свою чергу, означає вигоду для всіх галузей промисловості. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Якщо ви шукаєте фінансову підтримку, ви можете розглянути два шляхи. Ви можете фінансувати свій власний час як вкладник, або ви можете знайти організаційне фінансування проекту.
 
-## Funding your own time
+## Фінансування вашого часу
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+У наш час, багато людей отримують гроші за неповний або повний день роботи над open source. Найпоширеніший спосіб отримати гроші за ваш час — поговорити з вашим роботодавцем.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Легко зробити причину (*можливість**) для роботи над open source, якщо ваш роботодавець фактично використовує проект, та будьте винахідливими (креативними), коли продаєте таку їдею. Можливо, ваш роботодавець не використовує проект, але вони використовують Python, і утримання популярного Python проекту допоможе залучити нових розробників Python. Може бути, це робить вигляд вашого роботодавця більш дружнім для розробки в цілому.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  Як і багато хто в open source, я боровся з тягарем утримання проекту. Коли я вперше почав працювати над open source, я звик просто залишитися допізна попрацювати над ним або прямо тоді, коли я повертався додому. (...) Я був в змозі обговорити з моїм босом питання, з якими я зіткнувся, і ми придумали ідеї про те, як ми могли б об'єднати open source завдання з використанням нашого власного Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+Якщо у вас немає існуючого open source проекту, з яким ви хотіли б працювати, але надаєте перевагу, щоб ваша кінцева робота була open source, надайте причини вашому роботодавцю (*переконайте вашого роботодавця**), відкрити код деякого внутрішнього програмного забезпечення.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+Багато компаній розробляють open source програми для створення свого бренду і залучення талановитих.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://hueniverse.com/2014/08/15/open-source-aint-charity/). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse, наприклад, виявив, що є фінансові причини для обґрунтовування [інвестицій Wallmart в open source](https://hueniverse.com/2014/08/15/open-source-aint-charity/). Та @jamesgpearce виявив, що open source программа Фейсбуку [зробила відмінність](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) в рекрутингу:
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> Це було тісно пов'язано з нашою хакерською культурою, і як наша організація сприймалась. Ми запитали наших співробітників, "Чи ви знали про open source програму Facebook?". Дві третини сказали "Так". Половина каже, що програма позитивно визначала їх рішення працювати на нас. Це не маргінальні номера, і я сподіваюся, ця тенденція триває.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+Якщо ваша компанія йде цим шляхом, дуже важливо чітко дотримувати кордони між спільнотою та корпоративної діяльностю. Зрештою, open source підтримує себе за рахунок внесків людей зі всього світу, і це більше, ніж будь-яка одна компанія або поселення.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1445228?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  Отримання плати за роботу над open source є рідкісною і прекрасною можливістю, але ви не повинні поступатися в вашій пристрасті в цьому процесі. Компанії повинні хотіти вам платити саме за вашу пристрасть.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+Якщо ви не можете переконати вашого нинішнього роботодавця поставити в пріорітет open source, розгляньте можливість знайти нового роботодавця, який заохочує внески працівника в open source. Подивіться на компанії, які явно прихильні до роботи над open source. Наприклад:
 
-* [Ghost](https://ghost.org/) is a company built around [an open source project](https://github.com/tryghost/ghost)
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* [Ghost](https://ghost.org/) – це компанія побудована навколо [open source проекту](https://github.com/tryghost/ghost)
+* [Rackspace](https://www.rackspace.com/en-us) оприлюднила свою [політику внесків в open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) для співробітників
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+Проекти, які створені у великих компаніях, таких як [Go](https://github.com/golang) або [React](https://github.com/facebook/react), також, ймовірно, наймають людей на роботу над open source.
 
-Finally, depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+І, нарешті, в залежності від ваших особистих обставин, ви можете спробувати залучити гроші самостійно для фінансування вашої open source роботи. Наприклад:
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](http://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon фінансував свою працю над [Redux](https://github.com/reactjs/redux) через [Patreon crowdfunding campaign](http://redux.js.org/)
+* @andrewgodwin спонсорував свою роботу над механізмом міграції схем у Django через [Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-## Finding funding for your project
+## Пошук фінансування для свого проекту
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Окрім домовленостей окремих вкладників, іноді проекти отримують гроші від компаній, фізичних осіб, та інших, щоб спонсорувати поточну роботу.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+Організаційне фінансування може йти на оплату поточних співробітників, для покриття витрат на виконання проекту (наприклад, плата за хостинг), або інвестування в нові функції або ідеї.
 
-A few examples of projects with organizational funding include:
+Кілька прикладів проектів з організаційним фінансуванням включають:
 
-* **[webpack](https://github.com/webpack),** which raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue),** created by @yyx990803, which is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization created by @indirect that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack),** котрий збирає гроші с компаній та з фізичних осіб [через OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue),** створенний @yyx990803, котрий [фінансується через Patreon](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** некоммерційна організація створена @indirect, що оплачує роботу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), та іншіми проектами інфраструктури Ruby
 
-As open source's popularity increases, finding funding for projects is still experimental. A few current options include:
+Як би не збільшувалась популярність open source, способи пошуку фінансування ще експериментальні. Декілька сучасних варіантів включають в себе:
 
-* **Raise money for your work through crowdfunding campaigns or donations.** This strategy works well if you have a strong audience or reputation already, or your project is very popular.
-* **Apply for grant funding.** Some software foundations and companies offer grants for open source work, such as the [Python Software Foundation](https://www.python.org/psf/grants/), [Mozilla Foundation](https://www.mozilla.org/en-US/grants/), and [Stripe](https://stripe.com/blog/open-source-retreat-2016).
-* **Raise sponsorships from companies and individual donors** through a software foundation. Or **start a business** to support the project.
+* **Зібрати гроші на вашу працю через краудфандінгові компанії чи пожертви.** Ця стратегія гарно працює якщо ви вже маєте солідну аудиторію чи репутацію.
+* **Подайте заяву на грантове фінансування.** Деякі фонди програмного запезпечення або кампанії надають гранти на open source розробку, такі як [Python Software Foundation](https://www.python.org/psf/grants/), [Mozilla Foundation](https://www.mozilla.org/en-US/grants/), та [Stripe](https://stripe.com/blog/open-source-retreat-2016).
+* **Добудьте спонсорство від компаній та індивідуальних дарувальників** через фонди програмного запезпечення. Або **почніть бізнес** для підтримки проекту.
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+Для більш докладних варіантів та тематичних досліджень, @nayafia [написала посібник](https://github.com/nayafia/lemonade-stand) отримання грошей за open source роботу. Різні типи фінансування вимагають різних навичок, тому розгляньте ваші сильні сторони, щоб з'ясувати, який варіант краще всього працює для вас.
 
-## Building a case for financial support
+## Створюємо аргументи для фінансової підтримки
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Чи ваш проект – це нова ідея, чи він існує протягом багатьох років, ви повинні бути готові гарно подумати та визначити вашого спонсора та підготувати переконливі аргументи.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Чи ви шукаєте оплату за ваш час, чи збір коштів для проекту, ви повинні бути спроможним відповісти на наступні питання.
 
-### Impact
+### Вплив
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Чому цей проект корисний? Чому користувачі або потенційні користувачі полюбляють його так сильно? Де він буде через п'ять років?
 
-### Traction
+### Привабливість
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Постарайтеся зібрати докази того, що ваш проект має значення, будь то показники, анекдоти, або відгуки. Чи існують які-небудь компанії або примітні люди, які використовують ваш проект прямо зараз? Якщо немає, то вже відома людина, яка схвалила його?
 
-### Value to funder
+### Цінність для спонсорів
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+Спонсори, чи це ваш роботодавець або фонд з надання грантів, часто починають переговори з можливостей. Чому вони повинні підтримувати ваш проект за якусь іншу можливость? Як вони особисто одержують користь?
 
-### Use of funds
+### Використання коштів
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Що, власне, ви досягнете за допомогою пропонованого фінансування? Зосередьтеся на етапах реалізації проекту або результаті, а не на виплаті зарплати.
 
-### How you'll receive the funds
+### Як ви отримаєте кошти
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+Чи є у фінансуючого будь-які вимоги до виділення кошт? Наприклад, вам може знадобитися бути некоммерційною організацією або мати некомерційного фіскального спонсора. Або, можливо, ці кошти повинні бути надані для індивідуального підрядника, а не організації. Ці вимоги варіюються між спонсорам, так що не забудьте зробити ваші дослідження заздалегідь.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  Протягом багатьох років ми були провідним ресурсом серед веб-сайтів привітних іконок, зі спільнотою більше 20 мільйонів чоловік, і були показані на більш ніж 70 мільйонів веб-сайтів, в тому числі WhiteHouse.gov. (...) Версія 4 була три роки тому. Веб-технології сильно змінились з тих пір, і, чесно кажучи, Font Awesome, став трохи застарілим. (...) Ось чому ми презентуємо Font Awesome 5. Ми модернізуємо і переписуємо CSS та реорганізуємо кожен значок від початку і до кінця. Ми узгоджуємо кращий дизайн, кращу послідовність і кращу чіткість.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Експериментуйте та не здавайтесь
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Залучення грошей – це не просто, чи у вас open source проект, некомерційний, або стартап програмного забезпечення, і в більшості випадків, вам потрібно бути творчим. Визначення того, як ви хочете отримувати гроші, роблячи ваші дослідження, та перенесення себе на місце вашого фінансуючого допоможе вам побудувати переконливі аргументи на користь фінансування.
 
 >
