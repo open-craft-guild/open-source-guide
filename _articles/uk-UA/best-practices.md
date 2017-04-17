@@ -8,7 +8,7 @@ toc:
   Задокументуйте-свої-процеси: "Задокументуйте свої процеси"
   Навчіться-казати-ні: "Навчіться казати «ні»"
   Використовуйте-свою-спільноту: "Використовуйте свою спільноту"
-  bring-in-the-robots: "Bring in the robots"
+  Прикличте-роботів: "Прикличте роботів"
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -207,45 +207,45 @@ image: /assets/images/cards/best-practices.png
 
 > Коли проект стає справді великим, майже неминуче те, що супровідники стають куди більш консервативними щодо додоавання нового коду. Ви починаєте дуже добре казати "ні", але багато людей мають виправдані потреби. Тож натомість ви перетворюєте свій інструмент на платформу.
 
-## Bring in the robots
+## Прикличте роботів
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Так само, як існують задачі, з якими вам можуть допомогти інші люди, також існують задачі, які не повинна робити жодна людина. Роботи — ваші друзі. Використовуйте їх для того, щоб спростити собі, як супровіднику, життя.
 
-### Require tests and other checks to improve the quality of your code
+### Вимагайте тестів та інших перевірок для покращення якості вашого коду
 
-One of the most important ways you can automate your project is by adding tests.
+Одним із найважливіших способів, якими ви можете автоматизувати свій проект, є додавання тестів.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Тести дозволяють учасникам бути впевненими, що вони нічого не зламають. Вони також дозволяють легше і швидше переглядати та приймати внески. Чим ви чуйніші, тим більш залученою може бути спільнота.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions.
+Налаштуйте автоматичні тести, які будуть запускатися для всіх внесків, що надходять, та переконайтеся, що учасники можуть легко запустити ваші тести локально. Вимагайте того, щоб усі внески до коду проходили ваші тести перш ніж будуть надіслані. Таким чином ви встановите мінімальний стандарт якості для всіх подань.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Якщо ви додали тести, потурбуйтеся про те, щоб пояснити,як вони працюють, у файлі CONTRIBUTING.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  Я переконаний, що тести просто необхідні для усього коду, над яким працюють люди. Якби код був цілковито правильним, зміни до нього були б непотрібні — ми пишемо код лише тоді, коли щось не так, коли "воно ламається" або "йому не вистачає такої-то функціональності". І незалежно від змін, які ви вносите, тести життєво необхідні щоб піймати регресію, яку ви випадково створили.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Автоматизація спільноти Rust"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Використовуйте інструменти для автоматизації базових завдань підтримки
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+Хороша новина щодо супроводження популярного проекту полягає в тому, що інші супровідники вірогідно вже стикалися з проблемами, подібними до ваших, і створили відповідне рішення.
 
-There are a [variety of tools available](https://github.com/integrations) to help automate some aspects of maintenance work. A few examples:
+[Існує чимало інструментів](https://github.com/integrations), які допоможуть автоматизувати завдання супроводу. Наприклад:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
+* [semantic-release](https://github.com/semantic-release/semantic-release) автоматизує релізи
+* [mention-bot](https://github.com/facebook/mention-bot) сповіщує потенційних рецензентів (reviewers) для пул-реквестів.
+* [Danger](https://github.com/danger/danger) допомагає автоматизувати код-рев'ю
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
+Для баг-репортів та інших частих внесків у Github є [шаблони іш'ю та пул-реквестів](https://github.com/blog/2111-issue-and-pull-request-templates), які ви можете використати для того, щоб раціоналізувати комунікації. Ви також можете налаштувати [email-фільтри](https://github.com/blog/2203-email-updates-about-your-own-activity) для керування email-сповіщеннями.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Якщо ви бажаєте піти далі, керівництва по оформленню та лінтери дозволять вам стандартизувати внески до проекту та полегшити їх перегляд та прийняття.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Утім, якщо ваші стандарти надто складні, вони збільшують бар'єр для здійснення внесків. Переконайтеся, що ви додаєте тільки правила, яких буде достатньо для полегшення життя.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Якщо ви не певні щодо того, які інструменти використовувати, подивіться, що використовують інші популярні проекти, особливо ті, які мають із вашим однакову екосистему. Наприклад, як відбувається процес здійснення внеску для інших модулів Node.js? Використання подібних інструментів та підходів також зробить ваші процеси ближчими до учасників.
 
 ## It's okay to hit pause
 
