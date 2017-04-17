@@ -35,7 +35,7 @@ Finally, your project may have dependencies with license requirements that you w
 
 When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
 
-![create repository](/assets/images/legal/repo-create-name.png)
+![create repository](/assets/images/uk-UA/legal/repo-create-name.png)
 
 **Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
 

@@ -1,249 +1,249 @@
 ---
-locale: en-US
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+locale: uk-UA
+title: Найкращі практики для супровідників.
+description: 'Зробіть своє життя, як супровідника open source проекту, простішим: від документування процесів до використання спільноти.'
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
+  Що-означає-бути-супровідником: "Що означає бути супровідником?"
+  Задокументуйте-свої-процеси: "Задокументуйте свої процеси"
+  Навчіться-казати-ні: "Навчіться казати «ні»"
+  Використовуйте-свою-спільноту: "Використовуйте свою спільноту"
+  Прикличте-роботів: "Прикличте роботів"
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 ---
 
-## What does it mean to be a maintainer?
+## Що означає бути супровідником?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Якщо ви супроводжуєте open source проект, який використовують чимало людей, ви помітите, що починаєте менше писати код і більше відповідати на іш'ю.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+На ранніх етапах проекту ви експериментуєте з новими ідеями та приймаєте рішення, виходячи зі своїх бажань. Щойно популярність проекту зросте, ви більше співпрацюватимете зі своїми користувачами та учасниками.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Супровід проекту вимагає чогось більшого, ніж написання коду. Ці задачі часто непередбачувані, втім вони не менш важливі для проекту, що розвивається. Ми зібрали декілька способів, які полегшать ваше життя: від документування процесів до використання своєї спільноти.
 
-## Documenting your processes
+## Задокументуйте свої процеси
 
-Writing things down is one of the most important things you can do as a maintainer.
+Записувати різні речі — це одна з найважливіших речей, що ви, як супровідник, можете зробити.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Документування не лише допоможе вам краще сформулювати думки, а також допоможе іншим людям зрозуміти, що вам потрібно або чого ви очікуєте, ще до того, як вони спитають.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Записування спростить відмову, якщо щось не входить у ваші рамки. Також це допоможе іншим зробити перший крок і приєднатися до співпраці. Ви ніколи не знаєте, хто читає чи використовує ваш проект.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Якщо ви не пишете розгорнуті абзаци, занотовувати основні моменти все одно краще, ніж не писати узагалі нічого.
 
-### Write down your project's vision
+### Запишіть своє бачення проекту
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Для початку запишіть мету свого проекту. Додайте її до файлу README або створіть окремий файл із назвою VISION (БАЧЕННЯ). Якщо є й інші матеріали, які можуть допомогти (наприклад, план розвитку проекту), зробіть їх також публічними.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Наявність чіткого, задокументованого бачення дозволить вам залишатися сфокусованим та уникнути так званого "посунення рамок" внаслідок внесків інших людей.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Наприклад, @lord зрозумів, що наявність бачення проекту допомагає йому визначатися, на які запити витрачати час. Він, як новий супровідник, шкодує, що не притримувався рамок проекту, коли отримав перше прохання додати функціонал для [Slate](htts://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  Я зробив дуже незграбно. Я не доклав зусиль щоб знайти повне рішення. Замість часткового рішення я волів би сказати "У мене зараз немає на це часу, але я додам це до списку бажаних у довготривалій перспективі речей".
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["Поради для нових супровідників open source"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Повідомляйте про свої очікування
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Написання правил часто дратує. Інколи ви навіть можете почуватися наче контролюєте поведінку інших людей або псуєте їм усі веселощі.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Утім, записані та чесно застосовувані, хороші правила посилюють супровідників. Вони не дають вам бути затягнутим у ті речі, які ви не бажаєте робити.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Більшість із тих людей, які знаходять ваш проект, нічого не знають ані про вас, ані про ваші обставини. Вони можуть вважати, що ви отримуєте платню за роботу над проектом, особливо якщо самі цим частенько послуговуються і залежать від цього. Можливо, ви колись приділяли багато часу своєму проекту, але зараз сильно зайняті на новій роботі або з новим членом своєї сім'ї.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Це цілком нормально! Лишень переконайтеся, що інші люди знають про це.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Якщо супровід проекту відбувається частково або повністю на волонтерських засадах, будьте чесними щодо того, скільки часу ви маєте. Це не те саме, що і час, який, на вашу думку, цей проект потребує, або час, який ви хотіли б на нього витрачати.
 
-Here are a few rules that are worth writing down:
+Ось декільки правил, які варто написати:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_ex. "We only spend about 5 hours per week on this project"_)
+* Як розглядаються та приймаються внески (_Чи потрібні тести? Шаблон для створення іш'ю?_)
+* Види внесків, які ви приймете (_Можливо, ви бажаєте допомоги лише з конкретним фрагментом вашого коду?_)
+* Коли доречно нагадати про питання (_напр. "Очікуйте відповідь від супровідника протягом 7 днів. Якщо до того часу ви нічого не почуєте, не соромтеся нагадати про себе в обговоренні."_)
+* Скільки часу ви приділяєте проекту (_напр. "Цьому проекту ми приділяємо приблизно 5 годин на тиждень"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) та [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) — ось декілька прикладів проектів, які мають основоположні правила для супровідників та учасників.
 
-### Keep communication public
+### Комунікуйте публічно
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Не забудьте записувати і взаємодії також. Усюди, де це можна, тримайте комунікації щодо проекту публічними. Хтось намагається написати вам особисто для обговорення функціональності або необхідної допомоги — ввічливо направте їх у публічний канал обговорень, такий як поштова розсилка або реєстр іш'ю (issue tracker).
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Якщо ви особисто зустрічаєтеся з іншими супровідниками або приймаєте важливі рішення, задокументуйте ці обговорення публічно, навіть якщо це лише публікування ваших нотаток.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Таким чином, будь-хто, хто долучиться до вашої спільноти, володітиме тією ж інформацією, що й людина, яка роками брала участь у проекті.
 
-## Learning to say no
+## Навчіться казати «ні»
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Отже, ви все записали. В ідеальному світі усі прочитають вашу документацію, але в реальному вам доведеться нагадувати іншим про існування цих знань.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Утім, наявність інформації у письмовому вигляді дає можливість знеособити ситуації, коли вам необхідно забезпечити дотримання правил.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Непросто казати «ні». Але відповідь _"Ваш внесок не відповідає критеріям проекту"_ є менш особистою, ніж _"Мені не до вподоби ваш внесок"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Вам доведеться казати «ні» у багатьох ситуаціях, з якими ви, як супровідник, будете мати справу. Наприклад, запити функціоналу, які виходять за рамки проекту; люди, котрі зводять обговорення нанівець; виконання непотрібної роботи для інших.
 
-### Keep the conversation friendly
+### Підртимуйте дружній тон спілкування
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+В основному вам доведеться відмовляти у відкритих іш'ю і численних пул-реквестах. Як супровідник, ви неминуче отримаєте такі пропозиції щодо проекту, які не захочете приймати.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Можливо, внесок змінює рамки проекту або не співпадає з вашим баченням. Можливо, хоч ідея і чудова, її реалізація залишає бажати кращого.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Незалежно від причин, завжди можна тактовно поводитися по відношенню до внесків, які не відповідають стандартам вашого проекту.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Припустимо, ви отримали внесок, який не бажаєте приймати. Першою реакцією може виникнути бажання проігнорувати його або зробити вигляд, ніби ви його не бачили. Учинивши так, ви можете зачепити почуття іншої людини або ж навіть демотивувати інших потенційних учасників своєї спільноти.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  Ключем до підтримки великих open source проектів є рух іш'ю. Намагайтеся уникати їх застою. Якщо ви iOS розробник, то знаєте наскільки може розчаровувати відкриття «радарів». Отримати відповідь ви можете аж через 2 роки, при цьому вона може містити пропозицію спробувати ще раз, але вже з останньою версією iOS.
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["Розширення open source спільнот"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Не залишайте небажані внески відкритими тільки тому, що почуваєтеся винним або хочете бути ввічливим. З часом через іш'ю та пул-реквести, що залишилися без відповіді, робота над вашим проектом стане більш стресовою та лячною.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Набагато краще одразу закривати внески, які ви точно не бажаєте приймати. Якщо ваш проект вже перевантажений надмірно великим списком завдань, то у @steveklabnik є пропозиція щодо того, [як ефективно впорядкувати іш'ю](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+До того ж, ігнорування внесків посилає негативний сигнал для спільноти. Робити внесок до проекту — лячно, особливо, якщо хтось це робить вперше. Навіть якщо ви не приймаєте внесок, подякуйте авторові за нього та за проявлений інтерес. Для вас це не складно, а авторові буде приємно.
 
-If you don't want to accept a contribution:
+Якщо ви не бажаєте приймати внесок:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* **Подякуйте авторам** за внесок.
+* **Поясніть, чому саме цей внесок не підходить** проекту та, якщо можете, запропонуйте чіткі пропозиції для покращення. Будьте люб'язні, але і непохитні.
+* **Додайте посилання на відповідну документацію**, якщо маєте її. Якщо ви помічаєте, що запити, які ви не бажаєте приймати, повторюються, — задокументуйте інформацію про це, аби не відповідати одне й те саме.
+* **Закрийте запит**.
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+Зазвичай, для відповіді вам має бути достатньо 1-2 речень. Наприклад, коли користувач [celery](https://github.com/celery/celery) повідомив про помилку, пов'язану із Windows, @berkerpeksag [відповів](https://github.com/celery/celery/issues/3383):
 
-![celery screenshot](/assets/images/best-practices/celery.png)
+![celery screenshot](/assets/images/uk-UA/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Якщо сама лише думка про відмову лякає вас, знайте: ви не самі. Як [зазначив](https://blog.jessfraz.com/post/the-art-of-closing/) @jessfraz:
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> Я говорив із супровідниками різних open source проектів, таких як Mesos, Kubernetes, Chromium. І вони всі погодилися, що однією з найважчих речей, які їм, як супровідникам, доводиться робити, — це казати «ні» латкам (patch), яких вони не бажають.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Не варто почуватися винним через небажання приймати чийсь внесок. Першим правилом open source є ([згідно з](https://twitter.com/solomonstre/status/715277134978113536) @shykes): _"«Ні» — це тимчасово, «так» — це назавжди"_. Перейматися через ентузіазм іншої людини — добре, але варто пам'ятати, що відхилення внеску — це не відхилення людини, що стоїть за ним.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Врешті-решт, якщо внесок залишає бажати кращого, ви не зобов'язані приймати його. Будьте люб'язними та чуйними, коли люди роблять внески у ваш проект, але приймайте лише ті зміни, які, на вашу думку, зроблять ваш проект кращим. Чим частіше ви практикуєтеся казати «ні», тим легше стає це робити. Повірте.
 
-### Be proactive
+### Грайте на випередження
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Для того, щоб зменшити обсяг небажаних внесків, поясніть у керівництві про співпрацю процес надсилання та прийняття внесків до вашого проекту.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Якщо ви отримуєте дуже багато низькоякісних внесків, вимагайте, щоб учасники попередньо виконали певні дії, наприклад:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Заповнили шаблон/контрольний список для іш'ю або пул-реквесту
+* Відкрили іш'ю перед тим, як робити пул-реквест
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Якщо вони не слідують вашим правилам — одразу закривайте іш'ю та вказуйте на документацію.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Хоч такий підхід спершу і може видатися недобрим, гра на випередження, насправді, вигідна обом сторонам. Вона зменшує шанс того, що хтось витратить чимало часу на пул-реквест, який ви не збираєтеся приймати. Також це полегшує управління робочим навантаженням.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  В ідеалі, поясніть і опишіть у файлі CONTRIBUTING.md, як ще до початку роботи отримати краще розуміння, чи буде ця робота прийнята, чи ні.
   <p markdown="1" class="pquote-credit">
-— @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @mikemcquaid, ["Закриваємо пул-реквести люб'язно"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to diffuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Іноді, коли ви відмовляєте, ваш потенційний учасник може засмутитися або почати критикувати ваше рішення. У випадку, якщо поведінка цього учасника стає ворожою (недружньою), [вжийте заходів, щоб розрядити обстановку](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items), або ж навіть виключіть його зі спільноти, якщо він не бажає конструктивно співпрацювати.
 
-### Embrace mentorship
+### Використовуйте наставництво
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Можливо, дехто у вашій спільноті регулярно надсилає внески, які не підходять під стандарти вашого проекту. Для обох сторін неодноразово проходити етап відмови може бути неприємно.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Якщо ви бачите, що хтось сповнений ентузіазму щодо вашого проекту, але при цьому, на вашу думку, потребує поліпшення, будьте терплячі. У кожній ситуації чітко поясніть, чому внесок не співпадає з очікуваннями проекту. Намагайтеся вказати на завдання, яке простіше або менш неоднозначне. Наприклад, іш'ю позначене як _"хороша перша вада"_, для того, щоб почати. Якщо ви маєте на це час, то подумайте над тим, щоб наставляти учасника протягом його роботи над першим внеском. Або ж знайдіть у спільноті когось іншого, хто був би не проти цим зайнятися.
 
-## Leverage your community
+## Використовуйте свою спільноту
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Вам необов'язково все робити власноруч. Спільнота вашого проекту існує не просто так! Навіть якщо ви ще не маєте активних учасників у спільноті, якщо ви маєте багато користувачів — залучіть їх до роботи.
 
-### Share the workload
+### Розподіляйте навантаження
 
-If you're looking for others to pitch in, start by asking around.
+Для пошуку людей, які могли б активно займатися проектом, почніть з розпитувань.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Якщо ви бачите, що нові учасники час від часу роблять внески, визнайте їхню роботу, запропонувавши їм більше відповідальності. Якщо інші учасники бажають досягти лідерських позицій у проекті, задокументуйте, як вони можуть це зробити.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
+Заохочуйте інших [розділити права власності на проект](../building-community/#share-ownership-of-your-project) — це помітно зменшить навантаження на вас, — з'ясувала @lmccart під час роботи над своїм проектом [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’d been saying, “Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...].” We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  Я казала: "Так, будь хто може взяти участь і для цього не потрібно мати багато досвіду у програмуванні [...]." Люди реєструвалися, щоб прийти [на захід], і тоді мені стало цікаво: чи дійсно все так, як я кажу? Мали прийти майже 40 людей, і навряд я змогла би сидіти з кожним із них... Але люди прийшли разом, і все спрацювало. Як тільки комусь із них вдавалося розібратися, то та людина вже могла навчити і свого сусіда.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, ["Що “Open Source” взагалі означає? Версія p5.js"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Якщо вам треба відійти від проекту, ненадовго чи назавжди, — немає нічого ганебного в тому, щоб попросити когось приглянути за ним замість вас.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Якщо інші люди зацікавлені у тому, як розвивається ваш проект, — дайте їм доступ, можливість комітити, або формально передайте управління комусь іншому. Якщо хтось зробив форк вашого проекту та активно супроводжує його деінде, подумайте над тим, щоб додати посилання з вашого проекту на форк. Це ж так круто, що так багато людей хочуть, аби ваш проект продовжував жити!
 
-@progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [виявив](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/), що документування бачення його проекту [Dokku](https://github.com/dokku/dokku) допомогло поставленим цілям жити навіть після того, як він перестав займатися проектом:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> Я написав вікі-сторінку, яка описувала, чого я бажаю та чому. Для мене стало несподіванкою те, що супровідники почали розвивати проект у тому самому напрямку. Чи робили вони все так, як би це робив я? Не завжди. Але все ж це зробило проект ближчим до того, що я написав.
 
-### Let others build the solutions they need
+### Дайте іншим будувати ті рішення, яких вони потребують
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Форк проекту не означає щось погане. Можливість копіювати та змінювати проекти — одна з найкращих штук в open source. Надихайте учасників спільноти працювати над їхніми форками — це надасть їм віддушину для творчості, яка не конфліктуватиме з вашим баченням проекту.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  Я намагаюся догодити 80% сценаріїв використання. Якщо ви один із рідкісних єдинорогів — будь ласка, зробіть форк. Я не ображуся! Мої публічні проекти майже завжди мають на меті вирішити найбільш поширені проблеми; я намагаюся спростити для інших процес заглиблення за допомогою або створення форку, або розширення моєї роботи.
+
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["Чому я закриваю пул-реквести"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+Те ж саме стосується користувачів, які бажають ті рішення, що ви просто не здатні побудувати. Пропонуючи API та налаштовувані хуки, ви можете допомогти іншим вирішити їхні потреби, не змінюючи безпосередньо вихідний код. @orta [виявив](http://artsy.github.io/blog/2016/07/03/handling-big-projects/), що заохочення до створення плагінів для CocoaPods призело до "деяких із найцікавіших ідей":
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> Коли проект стає справді великим, майже неминуче те, що супровідники стають куди більш консервативними щодо додавання нового коду. Ви починаєте дуже добре казати "ні", але багато людей мають виправдані потреби. Тож натомість ви перетворюєте свій інструмент на платформу.
 
-## Bring in the robots
+## Прикличте роботів
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Так само, як існують задачі, з якими вам можуть допомогти інші люди, також існують задачі, які не повинна робити жодна людина. Роботи — ваші друзі. Використовуйте їх для того, щоб спростити собі, як супровіднику, життя.
 
-### Require tests and other checks to improve the quality of your code
+### Вимагайте тестів та інших перевірок для покращення якості вашого коду
 
-One of the most important ways you can automate your project is by adding tests.
+Одним із найважливіших способів, якими ви можете автоматизувати свій проект, є додавання тестів.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Тести дозволяють учасникам бути впевненими, що вони нічого не зламають. Вони також дозволяють легше і швидше переглядати та приймати внески. Чим ви чуйніші, тим більш залученою може бути спільнота.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions.
+Налаштуйте автоматичні тести, які будуть запускатися для всіх внесків, що надходять, та переконайтеся, що учасники можуть легко запустити ваші тести локально. Вимагайте того, щоб усі внески до коду проходили ваші тести перш ніж будуть надіслані. Таким чином ви встановите мінімальний стандарт якості для всіх подань.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Якщо ви додали тести, потурбуйтеся про те, щоб пояснити,як вони працюють, у файлі CONTRIBUTING.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  Я переконаний, що тести просто необхідні для усього коду, над яким працюють люди. Якби код був цілковито правильним, зміни до нього були б непотрібні — ми пишемо код лише тоді, коли щось не так, коли "воно ламається" або "йому не вистачає такої-то функціональності". І незалежно від змін, які ви вносите, тести життєво необхідні щоб піймати регресію, яку ви випадково створили.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Автоматизація спільноти Rust"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Використовуйте інструменти для автоматизації базових завдань підтримки
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+Хороша новина щодо супроводження популярного проекту полягає в тому, що інші супровідники вірогідно вже стикалися з проблемами, подібними до ваших, і створили відповідне рішення.
 
-There are a [variety of tools available](https://github.com/integrations) to help automate some aspects of maintenance work. A few examples:
+[Існує чимало інструментів](https://github.com/integrations), які допоможуть автоматизувати завдання супроводу. Наприклад:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
+* [semantic-release](https://github.com/semantic-release/semantic-release) автоматизує релізи
+* [mention-bot](https://github.com/facebook/mention-bot) сповіщує потенційних рецензентів (reviewers) для пул-реквестів.
+* [Danger](https://github.com/danger/danger) допомагає автоматизувати код-рев'ю
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
+Для баг-репортів та інших частих внесків у Github є [шаблони іш'ю та пул-реквестів](https://github.com/blog/2111-issue-and-pull-request-templates), які ви можете використати для того, щоб раціоналізувати комунікації. Ви також можете налаштувати [email-фільтри](https://github.com/blog/2203-email-updates-about-your-own-activity) для керування email-сповіщеннями.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Якщо ви бажаєте піти далі, керівництва по оформленню та лінтери дозволять вам стандартизувати внески до проекту та полегшити їх перегляд та прийняття.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Утім, якщо ваші стандарти надто складні, вони збільшують бар'єр для здійснення внесків. Переконайтеся, що ви додаєте тільки правила, яких буде достатньо для полегшення життя.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Якщо ви не певні щодо того, які інструменти використовувати, подивіться, що використовують інші популярні проекти, особливо ті, які мають із вашим однакову екосистему. Наприклад, як відбувається процес здійснення внеску для інших модулів Node.js? Використання подібних інструментів та підходів також зробить ваші процеси ближчими до учасників.
 
 ## It's okay to hit pause
 
